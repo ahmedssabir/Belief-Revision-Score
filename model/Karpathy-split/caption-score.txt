@@ -1,0 +1,1207 @@
+a close up of a dog laying in a basket,0.12219398468732834
+a black and white photo of a street light,0.19443924725055695
+a white toilet with its seat up in a bathroom,0.03185150772333145
+a living room filled with furniture and a coffee table,0.1966855227947235
+a basket filled with sandwiches on top of a table,0.19603678584098816
+a group of people riding on the back of an elephant,0.23966699838638306
+a man wearing glasses and a tie in a room,0.11044387519359589
+a woman standing in front of a giant cake,0.21277932822704315
+a baby sitting in front of a giant cake,0.14979450404644012
+a group of children sitting around a piece of luggage,0.22734230756759644
+a bunch of flowers that are in a vase,0.20576822757720947
+a sandwich sitting on top of a white plate,0.21060504019260406
+a giraffe standing on top of a lush green field,0.27322691679000854
+an old stove with pots and pans on it,0.1756555587053299
+the back of a truck filled with garbage,0.15516327321529388
+two young men are playing a video game,0.16196802258491516
+a man talking on a cell phone with mountains in the background,0.28833237290382385
+a boat floating on top of a large body of water,0.31609684228897095
+a man riding a snowboard down a snow covered slope,0.11841882765293121
+a woman sitting at a table with a glass of wine,0.20554938912391663
+a man sitting on a bench surrounded by pigeons,0.26531580090522766
+a girl is holding a pair of scissors,0.1847383975982666
+a dog is sleeping on a pile of stuffed animals,0.1678813397884369
+a brown and white cat laying in a bowl,0.07631651312112808
+a bench sitting in the middle of a lake,0.2088051438331604
+a group of boats that are sitting in the water,0.16386619210243225
+a white dog holding a yellow frisbee in its mouth,0.2625831961631775
+a bowl of soup next to a bowl of broccoli,0.25206315517425537
+a stop sign in front of a cloudy sky,0.15687613189220428
+a group of people riding skis on a snowy surface,0.17617520689964294
+a group of people skiing in the snow,0.17093110084533691
+four boxes of donuts sitting on a table,0.22074003517627716
+a man riding a skateboard up the side of a ramp,0.2737818956375122
+a man sitting on a toilet in a bathroom,0.14339889585971832
+a group of men standing next to each other,0.2824814021587372
+a couple of men walking down a rain soaked street,0.14716213941574097
+a woman sitting on a bed using a laptop computer,0.1224360316991806
+a boat that is floating in the water,0.14498932659626007
+a couple of men riding bikes down a dirt road,0.16356778144836426
+a living room filled with furniture and a bottle of wine,0.22243909537792206
+a man standing next to a little boy on a sidewalk,0.1871417611837387
+a person taking a picture of a pizza,0.10995738953351974
+a woman standing on a subway train looking at her phone,0.14499592781066895
+a bench and a fire hydrant on a sidewalk,0.133710116147995
+a black and white photo of two children,0.16553139686584473
+a black and white photo of a woman sitting on a horse,0.2360409051179886
+a person sitting on a bench in front of a house,0.2316817045211792
+a bed sitting next to a night stand,0.16996310651302338
+a man riding a motorcycle with a woman on the back,0.17280402779579163
+a group of men on a field playing baseball,0.11554206162691116
+a tall clock tower with a sky background,0.08083929121494293
+a public transit bus on a city street,0.11298173666000366
+a close up of a pair of scissors,0.2126530557870865
+a bunch of sliced carrots sitting on a cutting board,0.24295513331890106
+a cake sitting on top of a plate on a table,0.22359634935855865
+a white toilet sitting inside of a bathroom stall,0.09249965101480484
+a couple of giraffe standing next to each other,0.2576763331890106
+a woman using a laptop on a bed,0.08635864406824112
+two people are playing frisbee on the beach,0.21116125583648682
+a little girl standing in the rain with an umbrella,0.12846170365810394
+a man riding a wave on top of a surfboard,0.2549054026603699
+a white toilet sitting inside of a bathroom stall,0.09249965101480484
+a man standing in front of a refrigerator,0.23501749336719513
+a group of kites that are in the water,0.11159636825323105
+a man flying through the air while riding a skateboard,0.2193887084722519
+a red and black kite flying in a blue sky,0.12200415879487991
+a hotel room with three beds in it,0.08721224963665009
+a traffic light sitting on the side of a road,0.23239988088607788
+a large jetliner sitting on top of an airport tarmac,0.20286764204502106
+a tall tower with a clock on each of its sides,0.13226234912872314
+a plate of food on a table,0.0984131470322609
+a man and a woman standing next to each other,0.332450807094574
+a man riding a wave on top of a surfboard,0.2549054026603699
+a couple of brown cows standing on top of a field,0.19111640751361847
+a bedroom with a bed and a painting on the wall,0.24331867694854736
+a woman walking down a sidewalk talking on a cell phone,0.2218494862318039
+airplanes lined up on the tarmac at an airport,0.316122829914093
+a person cutting a pizza with a knife,0.13755375146865845
+an orange and white cat and some birds,0.022154344245791435
+a table topped with a donut and a cup of coffee,0.277846097946167
+a cat laying in a toilet in a bathroom,0.08556420356035233
+a clock tower on top of a building,0.18756283819675446
+the kitchen is clean and ready for us to use,0.12865792214870453
+a row of pizzas sitting on top of a counter,0.2678757309913635
+a couple of zebra standing next to each other,0.25006380677223206
+a group of people walking down a city street,0.24850623309612274
+three airplanes are lined up on the tarmac,0.30706366896629333
+a man riding a snowboard down a snow covered slope,0.11841882765293121
+a clock that is sitting on a shelf,0.09767157584428787
+a woman laying on the back of a bicycle,0.20783929526805878
+a cat sitting in front of a laptop computer,0.18965837359428406
+a plate with french fries and a sandwich,0.15069012343883514
+a group of people standing in front of a bus,0.25941285490989685
+a couple of men riding on the back of a motorcycle,0.24010667204856873
+a bathroom with a toilet sink and shower,0.0896015539765358
+the bathroom is clean and ready to be used,0.14497601985931396
+an old stone church with a clock tower,0.10548238456249237
+a kitchen with a sink and pictures on the wall,0.19942118227481842
+a man riding a skateboard down a sidewalk,0.20863251388072968
+a man riding a wave on top of a surfboard,0.2549054026603699
+a group of people sitting around a living room,0.27521467208862305
+a baseball player sliding into home base during a game,0.134952113032341
+a young boy is looking at his cell phone,0.13376553356647491
+a group of young men playing a game of soccer,0.1584651619195938
+a herd of elephants walking across a dirt field,0.13876749575138092
+a plane flying through the cloudy sky,0.12655694782733917
+a group of people sitting next to each other,0.34570178389549255
+a man and a woman standing next to each other,0.332450807094574
+a table topped with a smart phone and a bag,0.1675429344177246
+a woman is walking in the rain with an umbrella,0.14283737540245056
+a keyboard and mouse on a desk,0.10226182639598846
+a couple of plates of food on a table,0.13152174651622772
+a man and a woman sitting on a couch together,0.20127341151237488
+a tray of food with a spoon and spoon,0.07582439482212067
+a woman that is standing in the sand with a frisbee,0.20432710647583008
+a man sleeping on a bed with a cat,0.10736964643001556
+a man standing in front of a store front,0.21179018914699554
+a couple of giraffe standing next to each other,0.2576763331890106
+a small airplane parked on an airport tarmac,0.15341943502426147
+a group of people riding motorcycles down a road,0.17295178771018982
+a man flying through the air while riding a skateboard,0.2193887084722519
+a man standing next to a bike on a sidewalk,0.19445239007472992
+a man on a surfboard riding a wave,0.1790168434381485
+a group of people sitting at a dinner table,0.2462874948978424
+a large building with a statue on top of it,0.16071058809757233
+a cutting board with a sandwich cut in half,0.10791263729333878
+a woman laying in bed with white sheets,0.09714247286319733
+a cat is sitting on the bathroom floor,0.14364168047904968
+a man sitting at a desk with a laptop,0.14713402092456818
+a group of people surfing in the ocean,0.16998304426670074
+a woman walking past a wall covered in graffiti,0.09461013227701187
+a group of people walking down a street,0.2242571860551834
+a boat that is floating in the water,0.14498932659626007
+a woman standing in front of a brick building,0.21877449750900269
+a train on a track near many rocks,0.052373506128787994
+a train engine carrying carts down a track,0.09665895253419876
+a living room filled with furniture and a fire place,0.1300981491804123
+a person jumping a snow board in the air,0.040294475853443146
+a white toilet sitting next to a toilet paper roll,0.19113630056381226
+a man swinging a tennis racquet at a tennis ball,0.18523375689983368
+a person riding skis on a snowy surface,0.10102890431880951
+a couple of trays filled with different types of food,0.22967848181724548
+a metal vase with a bird on it,0.16698910295963287
+a group of young men sitting around a table,0.2161271572113037
+a yellow fire hydrant sitting on the side of a road,0.2700810134410858
+a woman and child looking at a goat,0.06048384681344032
+an airplane flying over a city skyline,0.05542489513754845
+a man sitting on top of a wooden bench,0.191648930311203
+a group of baseball players standing on top of a field,0.26940321922302246
+a couple of women standing on some steps,0.07964679598808289
+a large clock tower in a city square,0.039536744356155396
+a black and white image of a street sign,0.19244365394115448
+a close up of a plate of food with broccoli,0.12641389667987823
+a pair of glasses sitting on top of a fire hydrant,0.3047942519187927
+a red and white street sign and some cars,0.08417870849370956
+a couple of zebra standing next to each other,0.25006380677223206
+a group of horses walking down a street,0.17887292802333832
+a group of people standing around a table,0.1663597822189331
+a boat that is sitting in the water,0.13430127501487732
+a stuffed bear is sitting on a table,0.11218774318695068
+a man standing next to a traffic light,0.20369713008403778
+a group of people standing on top of a tennis court,0.28946036100387573
+a bunch of vegetables that are on a counter,0.13127006590366364
+a close up of a pizza in a box,0.12574434280395508
+a little girl holding a pair of scissors in her hands,0.2138361781835556
+a group of men standing next to each other holding frisbees,0.2804561257362366
+a man riding a skateboard up the side of a ramp,0.2737818956375122
+a group of people standing around a body of water,0.2403385192155838
+the man is wearing a suit and tie,0.13772007822990417
+a train traveling across a bridge over a river,0.1419539600610733
+a large air plane on a run way,0.03176417574286461
+a large white bus on a city street,0.11274179071187973
+a metal bowl filled with oranges on top of a table,0.1636621057987213
+a cat laying on top of a piece of paper,0.2680968642234802
+a motorcycle parked on top of a bridge,0.20733754336833954
+a living room filled with furniture and a flat screen tv,0.17220783233642578
+a large bed sitting in a bedroom next to a window,0.1626899242401123
+two police officers riding motorcycles on a city street,0.17779940366744995
+a man riding a wave on top of a surfboard,0.2549054026603699
+a man standing on the beach holding a surfboard,0.19384968280792236
+a man holding a drink and an umbrella,0.10224176198244095
+a microwave oven sitting on top of a counter,0.2706812918186188
+a man riding a wave on top of a surfboard,0.2549054026603699
+a young man holding a nintendo wii game controller,0.15762367844581604
+a large long train on a steel track,0.08860962092876434
+two giraffes are standing next to each other,0.3948172926902771
+a group of young children sitting at a table eating pizza,0.15101222693920135
+a couple of hotdogs are in a bowl,0.0732610747218132
+a woman in black jacket eating a hotdog,0.06805025041103363
+two people sitting at a table in a kitchen,0.16385480761528015
+a traffic light suspended over a city street,0.09795501083135605
+a man riding a wave on top of a surfboard,0.2549054026603699
+two young girls are posing with tennis rackets,0.1225910484790802
+a beer and a pizza on a table,0.0901506096124649
+a little girl sitting on top of a refrigerator,0.1902816742658615
+a group of boats floating on top of a body of water,0.319074809551239
+a man riding on the back of a white horse,0.2836269736289978
+a couple of men standing on top of a snow covered slope,0.18179403245449066
+a group of people sitting on a beach with umbrellas,0.274509996175766
+a kitchen with white cabinets and black appliances,0.06354793906211853
+a black and white photo of a house,0.2150888293981552
+a group of people standing around a white truck,0.13854064047336578
+a dog sitting on a bed in a room,0.1297609508037567
+a group of people getting off of a boat,0.16499659419059753
+a man sitting at a desk with a laptop,0.14713402092456818
+a cat laying on a bed in a room,0.10825283825397491
+a group of military men cutting a cake,0.10583394765853882
+a cat looking at a dog through a window,0.13137085735797882
+a baby sitting next to a stuffed teddy bear,0.2908058166503906
+a man riding on the back of a brown horse,0.252181738615036
+a couple of men standing next to each other,0.26204150915145874
+a piece of cake on a white plate,0.12841811776161194
+a couple of giraffe standing next to each other,0.2576763331890106
+a cat curled up on a red chair,0.13174721598625183
+a man standing in front of an airplane,0.16984815895557404
+a close up of a plate of food on a table,0.1763230562210083
+a herd of sheep standing on top of a grass covered field,0.21738301217556
+a person holding a pizza on a pan,0.08509257435798645
+a man riding a motorcycle down a street,0.14115849137306213
+a group of men on a field playing baseball,0.11554206162691116
+a pizza sitting on top of a white plate,0.2037554830312729
+a large white polar bear standing next to a fence,0.2337687760591507
+a white toilet sitting inside of a bathroom stall,0.09249965101480484
+a man hitting a tennis ball with a tennis racquet,0.26383480429649353
+a black and white photo of a train station,0.19600141048431396
+a vase filled with flowers on top of a table,0.20579545199871063
+a bunch of ripe bananas sitting on top of a table,0.2529914379119873
+a group of people sitting at a table together,0.2309776246547699
+a white plate topped with different types of food,0.20300017297267914
+a large crowd of people at an event,0.09877752512693405
+a girl sitting at a table eating a piece of pizza,0.17876765131950378
+a large long train on a steel track,0.08860962092876434
+a woman taking a pizza out of the oven,0.19896192848682404
+a man standing in a kitchen looking at a laptop,0.1272268146276474
+a dog playing with a frisbee in the grass,0.2625107765197754
+a group of chefs preparing food inside of a kitchen,0.15061095356941223
+a man riding on the back of a red motorcycle,0.22734621167182922
+a hand holding a nintendo wii game controller,0.143472358584404
+a city street filled with tall buildings and traffic,0.14934222400188446
+a dog sitting in the front seat of a car,0.23956899344921112
+a herd of zebra standing next to each other on a field,0.3074965178966522
+a dog is eating a carrot on the floor,0.07134219259023666
+a dog sitting on the seat of a motorcycle,0.16183365881443024
+a baby elephant standing next to an adult elephant,0.17801910638809204
+a grey cat sitting on a wooden chair,0.1295849233865738
+a bathroom with a white toilet sitting next to a sink,0.1964706927537918
+a little girl holding a nintendo wii game controller,0.1420782506465912
+a large long train on a steel track,0.08860962092876434
+two giraffes standing in front of a building,0.32606860995292664
+a woman is blow drying her hair,0.1276787966489792
+a clock that is on the side of a building,0.1932867467403412
+a desk that has a laptop on it,0.11035756766796112
+a vase filled with flowers next to a window,0.23037102818489075
+a group of people flying kites in a field,0.2109999805688858
+a group of men riding on the backs of horses,0.2165026068687439
+a bus that is sitting in the street,0.0786338523030281
+a blue street sign sitting on the side of a road,0.22005686163902283
+a crowd of people standing on top of a beach,0.19441533088684082
+a green truck parked on the side of the road,0.3150791823863983
+a clock that is on the side of a building,0.1932867467403412
+a white refrigerator freezer sitting inside of a kitchen,0.08124233782291412
+a close up of a plate of food on a table,0.1763230562210083
+a kitchen with a lot of pots and pans,0.3027706742286682
+a man is standing on top of a semi truck,0.18614304065704346
+a pile of vegetables sitting on top of a couch,0.25617048144340515
+a large green clock on a city street,0.07202970236539841
+a motorcycle driving down a city street at night,0.17943696677684784
+a couple of kids standing in front of a tv,0.21701006591320038
+a view of a bathroom through a doorway,0.12831354141235352
+a little boy holding a doughnut in his hand,0.21934589743614197
+a man sitting in the snow with a snowboard,0.09731985628604889
+a close up of a street sign with a sky background,0.15006932616233826
+a herd of sheep standing on top of a grass covered field,0.21738301217556
+a bird that is standing in the water,0.07391025125980377
+a couple of birds standing in the snow,0.12421666830778122
+a woman walking in the rain with an umbrella,0.15585201978683472
+two white horses standing next to each other,0.24147823452949524
+a yellow fire hydrant on a city street,0.2067018449306488
+a woman holding a cell phone in her hand,0.21350285410881042
+a laptop computer sitting on top of a desk,0.23818066716194153
+a view of a living room from the doorway,0.12457264959812164
+a very tall tower with a clock on each of its sides,0.11389465630054474
+a couple of women standing next to each other,0.26035991311073303
+a cat sitting on a bed in a room,0.14787697792053223
+a person sitting on a couch with a dog,0.13843616843223572
+a man riding a motorcycle down a city street,0.2035595178604126
+a close up of a plate of food with broccoli,0.12641389667987823
+a book that is sitting on a desk,0.09925203025341034
+a giraffe is standing near a pool of water,0.20820316672325134
+a wooden table topped with plates of food,0.13429497182369232
+a group of oranges sitting on a white plate,0.1685274988412857
+a laptop computer sitting on top of a wooden desk,0.2268565148115158
+a wall with four different clocks on it,0.0766780897974968
+a cat sitting in front of a window,0.2113787680864334
+a person holding a surfboard near a body of water,0.2902321219444275
+a group of young men playing a game of frisbee,0.2840660810470581
+a man sitting in a chair in a kitchen,0.13192562758922577
+a metallic refrigerator freezer sitting inside of a kitchen,0.0769864022731781
+a tray with different types of food on it,0.1939353197813034
+a man riding a brown horse through a field,0.14849944412708282
+a group of people riding motorcycles down a road,0.17295178771018982
+a man and a woman are holding a cake,0.14567063748836517
+two people sitting at a table with wine glasses,0.12407098710536957
+a man holding a frisbee in the woods,0.21483346819877625
+a woman wearing a hat and a hat,0.12153685092926025
+a man on a surfboard riding a wave,0.1790168434381485
+two sheep standing next to each other on a field,0.24679109454154968
+two giraffes standing in front of a city skyline,0.2978818118572235
+a baseball player swinging a bat during a game,0.2682229280471802
+a small bird sitting on a window sill,0.19389590620994568
+a group of men standing next to each other,0.2824814021587372
+a group of cows standing next to each other,0.28934723138809204
+a bathroom with a black and white checkered floor,0.29533830285072327
+a living room filled with furniture and a fire place,0.1300981491804123
+a white truck covered in graffiti parked next to a building,0.17492833733558655
+a man standing on a tennis court holding a racquet,0.2638435661792755
+a woman standing in front of an old stove,0.15456290543079376
+a young girl holding a red frisbee in a yard,0.19603049755096436
+a group of people walking down a sidewalk,0.17672422528266907
+a person riding a horse on a dirt ground,0.1289580911397934
+a wooden park bench sitting in the grass,0.1569085717201233
+a young boy swinging a baseball bat at a ball,0.17036820948123932
+a group of people standing around a herd of sheep,0.21073497831821442
+a group of people sitting at a table with laptops,0.21291477978229523
+a woman standing in front of a sink,0.23520667850971222
+a teddy bear is sitting on a book,0.17015255987644196
+a chair sitting in the middle of a garden,0.20875287055969238
+a pair of scissors sitting on top of a wooden table,0.25709569454193115
+a bus with yellow seats on the inside,0.04312015697360039
+the big ben clock tower towering over the city of london,0.1904536932706833
+a woman with a bunch of bananas on her head,0.2594233453273773
+a man riding a snowboard down a snow covered slope,0.11841882765293121
+a parking meter sitting on the side of a road,0.21081998944282532
+a statue of a man standing next to a giraffe,0.30301785469055176
+two sheep laying down in a grassy field,0.17413067817687988
+a white sink sitting under a bathroom window,0.0672345831990242
+a man standing in the middle of the street,0.24489474296569824
+a book sitting on top of a wooden bench,0.2071094810962677
+a large building on the corner of a street,0.16613754630088806
+a red and blue fire hydrant sitting on the side of a road,0.23935049772262573
+a bird that is flying in the air,0.10199697315692902
+a pair of scissors sitting on top of a sink,0.2762182652950287
+a boy with a tie standing in a room,0.07969304174184799
+a bath room with a sink and a mirror,0.11407075822353363
+a large gray elephant walking across a field,0.0796862468123436
+a woman standing in a living room holding a wii controller,0.17217396199703217
+a vase filled with yellow and white flowers,0.16358023881912231
+a pizza sitting on top of a wooden cutting board,0.27466264367103577
+a microwave oven sitting on top of a counter,0.2706812918186188
+a close up of a pan of food with broccoli,0.09271925687789917
+the wing of a plane over a snowy mountain,0.06759949773550034
+a large elephant that is standing in the grass,0.06514714658260345
+two women walking in the rain with umbrellas,0.24787618219852448
+a bedroom with a bed and a lamp,0.1296558976173401
+a laptop computer sitting on top of a wooden table,0.21555401384830475
+birds perched on a branch in a tree,0.14175979793071747
+a cat sitting next to a bunch of bottles,0.2491590529680252
+a baseball player swinging a bat during a game,0.2682229280471802
+a red fire hydrant sitting on the side of a sidewalk,0.24077677726745605
+a man riding skis down a snow covered slope,0.11306184530258179
+an elephant with tusks standing in the grass,0.21457555890083313
+a tall tower with a clock on it,0.07875865697860718
+a boat sitting on top of a beach,0.21873848140239716
+a little boy holding a large teddy bear,0.24015909433364868
+a woman sitting at a table with a doughnut,0.19869284331798553
+a cat laying on top of a wooden dresser,0.25211101770401
+a group of people holding hot dogs in buns,0.11685061454772949
+a street sign on a pole with a tree,0.08387654274702072
+a man walking along a beach next to the ocean,0.15160949528217316
+a young girl is playing with a kite,0.09896662831306458
+a woman holding a donut in a kitchen,0.18123169243335724
+a couple of sheep standing on top of a bridge,0.21743956208229065
+a city street filled with lots of traffic,0.2111489623785019
+a piece of cake sitting on top of a white plate,0.25772741436958313
+a close up of a cat laying on the ground,0.17942065000534058
+a person doing a trick on a skateboard,0.14750899374485016
+a couple of pizzas that are on a table,0.14693446457386017
+a pizza sitting on top of a pan on a table,0.20670685172080994
+a man riding a skateboard down a ramp,0.1994534283876419
+a man holding a nintendo wii game controller,0.15941090881824493
+a woman and child flying a kite in a field,0.1497720181941986
+a photo of the inside of a church,0.17587155103683472
+a couple of giraffe standing next to each other,0.2576763331890106
+a group of people standing around a fruit stand,0.15716825425624847
+a woman sitting on the floor holding a tennis racket,0.17456282675266266
+a herd of sheep standing next to each other,0.28958117961883545
+a man flying through the air while riding a snowboard,0.14072783291339874
+a traffic light hanging from a metal pole,0.16333898901939392
+two benches that are sitting in the grass,0.08111245185136795
+a bathroom with two sinks and a tub,0.1430148035287857
+a small bird walking in the grass,0.061422064900398254
+a couple of umbrellas that are outside of a building,0.22319968044757843
+a bus parked on the side of the road,0.33160221576690674
+a woman is holding a bunch of bananas,0.16832683980464935
+a person riding a surf board in the water,0.1051148921251297
+a man in a black shirt and blue tie,0.06893327087163925
+two city buses driving down a city street,0.12356812506914139
+a white plate topped with a cut in half sandwich,0.12469661980867386
+a person riding a surf board on a wave,0.11208593100309372
+a cat sitting on top of a skateboard,0.30193400382995605
+a group of people riding motorcycles down a street,0.16893844306468964
+an old black and white photo of a city street,0.1842397153377533
+a cat laying on a desk next to a laptop computer,0.17434917390346527
+a man flying through the air while riding a motorcycle,0.15791024267673492
+a group of people standing in front of a building,0.26655998826026917
+a baseball player swinging a bat at a ball,0.22225919365882874
+a group of cows that are standing in the dirt,0.12817448377609253
+a refrigerator filled with lots of food and drinks,0.21167415380477905
+a little boy that is sitting on a suitcase,0.0815468579530716
+a dog standing under an umbrella at night,0.04541967064142227
+a stop sign with street signs above it,0.04174394533038139
+a couple of zebras are standing in a field,0.22498281300067902
+a giraffe standing next to a wooden fence,0.26213377714157104
+a group of boats sitting on top of a beach,0.21920837461948395
+a close up of a slice of pizza on a plate,0.20663076639175415
+a pizza sitting on top of a pan on a table,0.20670685172080994
+a couple of cats are laying on a bed,0.09898781776428223
+a black cat laying on a white surface,0.07696524262428284
+a vase filled with yellow and red flowers,0.15965630114078522
+a stone wall in front of a brick wall,0.153712198138237
+a very tall clock tower towering over a city,0.10067129135131836
+a group of sheep standing next to a metal fence,0.23318298161029816
+a man sitting at a table with a plate of food,0.20065796375274658
+a couple of people and a dog on surfboards,0.07324270159006119
+a person on a surfboard in the water,0.13547757267951965
+a large pile of different types of vegetables,0.2167862057685852
+a couple of elephants walking through a lush green field,0.10482218861579895
+a plate of food and a cup of coffee,0.17914608120918274
+a red stop sign sitting on the side of a road,0.2662508487701416
+a large jetliner sitting on top of an airport tarmac,0.20286764204502106
+two people riding on the back of a motorcycle,0.22164461016654968
+a red and white stop sign and a black car,0.12363581359386444
+a man riding a skateboard across a parking lot,0.25960180163383484
+a baseball player getting ready to throw the ball,0.12295961380004883
+a wing of an airplane flying over a mountain range,0.06573396176099777
+a young boy sitting on a bed next to a book shelf,0.17396724224090576
+two people sitting on a boat in the water,0.12604916095733643
+a motorcycle parked next to a brick wall,0.22582373023033142
+an elephant with a duck in the background,0.0695047378540039
+a kitchen filled with lots of counter top space,0.20565573871135712
+a group of birds standing on top of a sandy beach,0.24172742664813995
+a baseball player swinging a bat at a ball,0.22225919365882874
+a woman sitting at a table using a laptop,0.12894763052463531
+a group of people standing outside of a bus,0.18158525228500366
+a white sink and toilet in a room,0.04399290680885315
+a pizza sitting on top of a pan on a table,0.20670685172080994
+a close up of a pizza and a drink,0.1175287514925003
+a group of men sitting at a table together,0.2080441564321518
+the kitchen is clean and ready to be used,0.13333408534526825
+a man standing in a room holding a teddy bear,0.18785734474658966
+a bath room with a toilet and a bath tub,0.10800087451934814
+a man sitting at a table with a piece of cake,0.1908988207578659
+two men in military uniforms cutting a cake,0.05278114229440689
+a couple of elephants standing next to each other,0.2760809063911438
+a cat laying inside of a piece of luggage,0.1682281494140625
+a street sign with a building in the background,0.14444376528263092
+a man laying on top of a bed next to a window,0.24334841966629028
+two dogs playing with a frisbee in the snow,0.23411120474338531
+a group of men standing next to each other on a field,0.25907424092292786
+a kitchen with a refrigerator a sink and a microwave,0.0751616433262825
+a motorcycle is parked next to a tent,0.1867273598909378
+a group of people standing around a plane,0.15335588157176971
+a small white dog standing next to a bicycle,0.16737212240695953
+two brown and white street signs and some trees,0.04189147427678108
+a man riding a wave on top of a surfboard,0.2549054026603699
+a man flying through the air while riding a snowboard,0.14072783291339874
+a man standing on a tennis court holding a racquet,0.2638435661792755
+a bathroom with a white toilet sitting next to a sink,0.1964706927537918
+a group of boats that are sitting in the water,0.16386619210243225
+a man and a child sitting on a bed,0.13266049325466156
+a couple of people on skis in the snow,0.09664878994226456
+a vase filled with flowers on top of a table,0.20579545199871063
+a cutting board topped with different types of vegetables,0.2031039446592331
+a man riding a wave on top of a surfboard,0.2549054026603699
+a white bath tub sitting next to a toilet,0.1642184555530548
+a woman riding on the back of a white horse,0.27016711235046387
+a white toilet sitting inside of a bathroom,0.09369594603776932
+a bunch of skis that are standing in the snow,0.1441493183374405
+a city street filled with traffic surrounded by tall buildings,0.226051464676857
+a group of young men playing a game of baseball,0.15842778980731964
+a horse that is standing in the grass,0.06403736025094986
+a man sitting at a table eating a hot dog,0.1486714631319046
+two people carrying a surfboard on a beach,0.15734878182411194
+a store display with oranges and a clock,0.0405026450753212
+a couple of zebras are in a field,0.2003556787967682
+a jockey riding a brown horse in a field,0.1261596530675888
+a parking meter in front of a wall covered in graffiti,0.15309840440750122
+a small airplane flying through a cloudy sky,0.09506694227457047
+a horse that is standing in the grass,0.06403736025094986
+two giraffes standing next to each other in a field,0.35350164771080017
+a bike parked in a room next to a tv,0.18440431356430054
+a giraffe that is standing in the dirt,0.141013965010643
+a woman standing in the snow holding a pair of skis,0.22849515080451965
+a bird is standing on a rocky beach,0.08954411000013351
+a black and white photo of a man smiling,0.20081982016563416
+a fighter jet flying through a blue sky,0.10168538242578506
+a cake sitting on top of a cake plate,0.22434675693511963
+a pizza sitting on top of a wooden cutting board,0.27466264367103577
+a man holding a toothbrush in his mouth,0.21995443105697632
+a box filled with different types of donuts,0.2957293391227722
+a cat that is laying on a bed,0.0818847045302391
+a clock that is on the side of a building,0.1932867467403412
+a bunch of UNK sitting on a counter,0.11823086440563202
+a bunch of ripe bananas sitting on a table,0.18521876633167267
+a man in a yellow shirt is throwing a ball,0.08814782649278641
+a young boy swinging a bat at a ball,0.10145281255245209
+a woman standing on a beach holding a kite,0.15065771341323853
+two people are playing a video game together,0.13738727569580078
+a woman walking a horse down a dirt road,0.14764109253883362
+a group of microwave ovens in a kitchen,0.24795570969581604
+a metal toilet seat in a bathroom,0.05809958279132843
+a white plate topped with meat and vegetables,0.15213042497634888
+two young men standing on top of a skateboard ramp,0.2391904890537262
+a group of people sitting around a living room,0.27521467208862305
+a man is sitting in front of a television,0.19419001042842865
+a cat sitting on a desk next to a laptop,0.22953040897846222
+a bath room with a sink a mirror and a toilet,0.08062344789505005
+a close up of a sandwich on a plate,0.1585778445005417
+a man wearing glasses and a red tie,0.09188330918550491
+a luggage cart filled with bags and bags,0.1313820630311966
+the back of a bus with blue seats,0.05258583649992943
+a bowl filled with rice meat and vegetables,0.1419622004032135
+a man riding a wave on top of a surfboard,0.2549054026603699
+a small child is holding a teddy bear,0.21499338746070862
+a pedestrian crossing sign on a city street,0.13603092730045319
+a green car stopped at a stop sign,0.20356343686580658
+a pizza sitting on top of a pan on a table,0.20670685172080994
+a woman holding a cake with lit candles,0.1825859099626541
+a woman watching a bird flying through the air,0.11710198223590851
+a close up of a train on a train track,0.1777816265821457
+a man flying through the air while riding a skateboard,0.2193887084722519
+a man riding a wave on top of a surfboard,0.2549054026603699
+a white plate topped with a slice of cake,0.23154522478580475
+a white cat laying on a red couch,0.07205621898174286
+a couple of people standing in a room,0.10446586459875107
+a bathroom with a large tub next to a window,0.15075530111789703
+two people sitting on a bench looking at the ocean,0.1551695466041565
+a woman holding a bowl of food,0.17032518982887268
+a white bath tub sitting next to a white toilet,0.1601913720369339
+a bird that is standing in the grass,0.05969635397195816
+two public transit buses on a city street,0.09180866181850433
+a pole with multiple street signs on it,0.0695033073425293
+a white car parked next to a wooden bench,0.16145524382591248
+a group of people standing around a boat,0.1534782201051712
+a kitchen with a stove and a microwave,0.09478912502527237
+a close up of a plate of food with broccoli,0.12641389667987823
+a city street filled with traffic at night,0.12328533083200455
+a bunch of vegetables that are on a table,0.13116294145584106
+a man in a suit stands in front of a building,0.23625653982162476
+a yellow bicycle parked under an umbrella,0.011941422708332539
+a zebra standing next to a stone wall,0.1859883964061737
+a white toilet sitting next to a shower in a bathroom,0.18897736072540283
+a woman sitting at a table with a cup of ice cream,0.19280880689620972
+a man sitting next to a pile of luggage,0.2256312519311905
+a close up of a plate of food with broccoli,0.12641389667987823
+a large air plane flying in the air,0.052190929651260376
+a man sitting at a table talking on a cell phone,0.20278812944889069
+a group of elephants standing next to a watering hole,0.28460782766342163
+a birthday cake made to look like a train,0.21382072567939758
+a group of people in a field flying kites,0.19403786957263947
+a group of men standing on top of a tennis court,0.2860347032546997
+a group of giraffe standing next to each other,0.27197882533073425
+a couple of women standing next to each other,0.26035991311073303
+two people standing in the snow flying a kite,0.16828039288520813
+a black and white picture of a zebra,0.26525434851646423
+a laptop computer sitting on top of a wooden desk,0.2268565148115158
+a living room filled with furniture and a red couch,0.1291714608669281
+a wooden shelf filled with plates and cups,0.14950238168239594
+a close up of a sandwich on a plate,0.1585778445005417
+a kitchen sink with an open refrigerator door,0.023092571645975113
+a couple of people that are in a kitchen,0.08146455883979797
+a man sitting at a table wearing a hat,0.14266029000282288
+a close up of a person wearing a suit and tie,0.19209912419319153
+a person walking with two dogs on a beach,0.06707125902175903
+a man walking down a street holding an umbrella,0.14245888590812683
+a tent set up outside in a yard,0.08628850430250168
+a glass vase filled with water and flowers,0.18284469842910767
+a train on a train track near a mountain,0.05856228619813919
+a man on a surfboard in the water,0.15171504020690918
+a banana plant hanging from a wooden fence,0.10917074978351593
+a black cat laying on a red suitcase,0.07257532328367233
+a man is standing in front of a toilet,0.21881915628910065
+a cat is eating a banana on the floor,0.09301967918872833
+a white toilet sitting next to a bath tub,0.17547227442264557
+a couple of teddy bears sitting on top of a shelf,0.2645666003227234
+two surfboards sitting on the sand of a beach,0.15283843874931335
+a man and a woman sitting at a table,0.24753235280513763
+the bathroom is clean and ready to be used,0.14497601985931396
+a cat laying on top of a blue bench,0.1776655614376068
+a stop sign at the corner of two streets,0.14166919887065887
+some baseball players are playing baseball on a field,0.04944562539458275
+a large semi truck driving down the road,0.07908963412046432
+a man holding a dog and a dog,0.12508898973464966
+a plane sitting on top of a tarmac,0.211337611079216
+a giraffe is laying down in the grass,0.17376135289669037
+a close up of a plate of food on a table,0.1763230562210083
+a train with graffiti on the side of it,0.163042351603508
+a young boy swinging a baseball bat at a ball,0.17036820948123932
+a woman on a tennis court playing tennis,0.13931146264076233
+a couple of men riding on the backs of brown horses,0.17717541754245758
+a giraffe standing on top of a lush green field,0.27322691679000854
+a boat floating on top of a large body of water,0.31609684228897095
+a bunch of bananas sitting on a shelf,0.1939212530851364
+a group of young women playing a game of soccer,0.148048534989357
+a couple of brown horses standing on top of a field,0.1964210569858551
+a brown teddy bear sitting on top of a table,0.2747645974159241
+a kitchen with wooden cabinets and a microwave,0.07338695973157883
+a group of people sitting in front of a tv,0.2470068633556366
+a plate of food on a table,0.0984131470322609
+a traffic light sitting on the side of a road,0.23239988088607788
+a wooden bench sitting next to a lush green field,0.1679365187883377
+a group of people standing on top of a tennis court,0.28946036100387573
+a white plate topped with a slice of pizza,0.23208847641944885
+a group of people sitting at a table,0.25522488355636597
+a blue vase filled with purple and purple flowers,0.15949580073356628
+a tall tower with a clock on each of its sides,0.13226234912872314
+a group of boats that are sitting in the water,0.16386619210243225
+a woman holding a tennis racquet on a tennis court,0.25054699182510376
+a large white clock sitting on the side of a building,0.18805527687072754
+a person cutting a cake with a knife,0.15698713064193726
+a flock of birds standing on top of a sandy beach,0.24990634620189667
+a close up of a plastic container of food,0.10092049837112427
+a woman on a surfboard in the water,0.13774198293685913
+a man is playing frisbee with his dog,0.22851860523223877
+a couple of women standing in front of a tv,0.2262202501296997
+a large white polar bear laying on top of a table,0.23682187497615814
+a white plate topped with a cut in half sandwich,0.12469661980867386
+a herd of sheep grazing on a dry grass field,0.1576712727546692
+two people are playing a video game together,0.13738727569580078
+a cat sitting on the hood of a car,0.29494085907936096
+a plate of food that is on a table,0.09376993775367737
+a red bus driving past a tall tree,0.03851049393415451
+a stop sign at the corner of a street,0.16414111852645874
+a room with three beds in it,0.09276442974805832
+a person sitting on a bench next to a tree,0.22278177738189697
+a person jumping a skate board in the air,0.035006292164325714
+a yellow and blue fire hydrant on the sidewalk,0.1417236179113388
+a large long train on a steel track,0.08860962092876434
+a room with two beds and a window,0.12326972186565399
+a train traveling down train tracks near a forest,0.09441699087619781
+a red bus driving down a street next to tall buildings,0.16983871161937714
+a person riding a surf board on a wave,0.11208593100309372
+a couple of bags that are next to a building,0.15000982582569122
+a city street at night with cars and people,0.07113280892372131
+two men standing next to each other on a train,0.2445564866065979
+a man sitting on top of a pile of luggage,0.2625967562198639
+a kitchen with a counter and a sink,0.12107203155755997
+a baseball player holding a bat on a field,0.1498725861310959
+three horses are grazing in a grassy field,0.17515119910240173
+a large long train on a steel track,0.08860962092876434
+a group of people standing around a table,0.1663597822189331
+two ducks floating on top of a lake,0.1708245575428009
+a table with food and drinks on it,0.11692427098751068
+a woman riding on the back of an elephant,0.20174948871135712
+a train traveling down train tracks near trees,0.09445001929998398
+a woman laying in bed with a cat,0.10607800632715225
+a zebra standing in the snow in front of a building,0.17233072221279144
+a green bench sitting on the side of a road,0.20457510650157928
+a herd of zebra standing next to each other on a sandy beach,0.293415904045105
+three cats are sleeping on a bed,0.06203819811344147
+a man sitting on top of a wooden bench,0.191648930311203
+a bus that is sitting in front of a building,0.1624268889427185
+a plastic container filled with different types of food,0.21410542726516724
+a large boat floating on top of a body of water,0.30268144607543945
+a person riding a horse on a city street,0.2109943926334381
+a bull with long horns laying in the grass,0.11664655804634094
+a young girl is smiling and holding a kite,0.08346601575613022
+a black and white clock and some bushes,0.10130561143159866
+a banana sitting on top of a white plate,0.21294178068637848
+a computer keyboard sitting on top of a desk,0.22908636927604675
+a person standing next to a red fire hydrant,0.2579948306083679
+a yellow fire hydrant sitting on the side of a road,0.2700810134410858
+a group of people standing around a table,0.1663597822189331
+a vase of flowers in front of a window,0.17009387910366058
+a couple of cows that are standing in the street,0.11915136873722076
+a knife and fork on a plate of food,0.07045432925224304
+a close up of a plate of food,0.15081588923931122
+a dog hanging his head out of a car window,0.23823831975460052
+a person sitting in the snow with a snowboard,0.09408372640609741
+a large screen tv mounted to the side of a wall,0.16798295080661774
+a refrigerator filled with lots of food and drinks,0.21167415380477905
+a bathroom with two sinks and a bathtub,0.2026231735944748
+a car parked next to a street sign,0.18300968408584595
+a cat laying on the floor next to a laptop,0.19848181307315826
+a group of people standing on top of a beach,0.2492520660161972
+a baseball player standing next to home plate,0.23598118126392365
+a group of motorcycles parked next to each other,0.2841813564300537
+a plant that is hanging from a branch,0.13721515238285065
+a small airplane sitting on top of an airport tarmac,0.2117144763469696
+a tennis player getting ready to serve the ball,0.16470816731452942
+a pan filled with meat and vegetables on a stove,0.18045388162136078
+a large air plane flying in the air,0.052190929651260376
+a herd of horses grazing on a lush green field,0.17791114747524261
+a living room filled with furniture and a fire place,0.1300981491804123
+an old truck parked next to a beach,0.16015887260437012
+a man holding a hot dog on a plate,0.15210804343223572
+a couple of zebra standing next to each other,0.25006380677223206
+a person riding a skate board on a city street,0.16809788346290588
+a basket filled with ripe bananas sitting on top of a table,0.254856139421463
+a couple of women standing on top of a tennis court,0.23455385863780975
+a man riding a skateboard across a parking lot,0.25960180163383484
+a herd of zebra standing next to each other on a field,0.3074965178966522
+a close up of a plate of food with broccoli,0.12641389667987823
+a group of little girls standing around a table,0.13665784895420074
+a teddy bear sitting on the hood of a car,0.31188586354255676
+a group of people riding on the backs of horses,0.22116805613040924
+a motorcycle parked in front of a house,0.23756201565265656
+a young girl holding a white teddy bear,0.2294785976409912
+a pair of scissors sticking out of a container,0.270248144865036
+two suitcases stacked on top of each other,0.3911416828632355
+a desk with a keyboard and a can of soda,0.14839039742946625
+a wooden bench sitting on top of a sandy beach,0.20676560699939728
+a group of people sitting on surfboards in the sand,0.18520379066467285
+a glass bowl filled with fruit on top of a table,0.17397242784500122
+a black and white cat laying on a bed,0.17420142889022827
+a tv sitting on top of a hard wood floor,0.21428892016410828
+a kite is flying high in the sky,0.17638342082500458
+a man riding on the back of a zebra,0.3048418164253235
+a group of people waiting to board a train,0.21642176806926727
+a bus that is sitting in the street,0.0786338523030281
+a group of street signs on a metal pole,0.12042190879583359
+a cow that is standing in the grass,0.07210005819797516
+a cow standing in the middle of a field,0.2577703595161438
+a living room filled with furniture and a fire place,0.1300981491804123
+a man standing in front of a tv,0.23500275611877441
+a white plate topped with different types of food,0.20300017297267914
+a close up of a street sign with a sky background,0.15006932616233826
+a man standing at a bar holding a glass of wine,0.150125190615654
+a large building with a clock on the top,0.11185109615325928
+a white vase with a plant in it,0.14161311089992523
+a man flying through the air while riding a skateboard,0.2193887084722519
+a couple of young girls sitting next to each other,0.24851828813552856
+a white toilet sitting inside of a bathroom stall,0.09249965101480484
+a pair of scissors sitting on top of a counter,0.27631065249443054
+a man wearing a hat and a tie,0.13544006645679474
+a black and white cat sitting on top of a couch,0.2656461000442505
+a man riding on the back of a motorcycle,0.2508833110332489
+a cat sitting on top of a bag of luggage,0.2467973232269287
+a group of people standing around a room,0.15360820293426514
+a baseball player swinging a bat on a field,0.21671484410762787
+a herd of sheep grazing on a lush green field,0.18882974982261658
+a bunch of bananas hanging from a ceiling,0.17926567792892456
+a television sitting on top of a refrigerator,0.225259467959404
+two women in a field playing with a frisbee,0.2075766623020172
+two people cross country skiing in the snow,0.06496291607618332
+a woman sitting next to a man in a chair,0.21664750576019287
+a pretty young lady posing for a picture,0.09770241379737854
+a man holding a cup inside of a refrigerator,0.13917860388755798
+a man holding up a glass of beer,0.1473408192396164
+a stop sign on the corner of a street,0.14822742342948914
+a bus parked on the side of the road,0.33160221576690674
+a colorful kite is being flown in the sky,0.06540649384260178
+a black and white photo of a man with a backpack on,0.20713526010513306
+three young boys are looking at a cell phone,0.12133482098579407
+a white and black motorcycle parked inside of a building,0.082598015666008
+a person riding skis on a snowy surface,0.10102890431880951
+a group of people walking down a street holding umbrellas,0.30962178111076355
+a close up of a street sign near a building,0.14273317158222198
+a group of people riding skis on a snowy surface,0.17617520689964294
+a laptop computer sitting on top of a wooden desk,0.2268565148115158
+a room with two beds and a chair,0.1238769069314003
+a close up of a plate of food,0.15081588923931122
+a man in an orange jacket talking on a cell phone,0.17279814183712006
+a large clock sitting inside of a glass case,0.1202624961733818
+a street filled with traffic surrounded by tall buildings,0.2524002194404602
+a herd of cattle walking down a street,0.18627412617206573
+a young man riding a skateboard down a sidewalk,0.19450892508029938
+a bike parked in front of a building,0.2181529402732849
+a man and woman standing next to each other,0.26088303327560425
+a woman holding a doughnut up to the camera,0.23610776662826538
+a bus that is sitting in the street,0.0786338523030281
+a man holding a nintendo wii game controller,0.15941090881824493
+a bunch of stuffed animals that are on a shelf,0.14300571382045746
+a double decker bus driving down a city street,0.207558274269104
+a man and a woman sitting at a table,0.24753235280513763
+a bowl of soup and a sandwich on a plate,0.12110644578933716
+a close up of a vase on a table,0.16317149996757507
+a man in black shirt holding a white frisbee,0.19639651477336884
+a red and white no parking sign,0.14964666962623596
+a large jetliner sitting on top of an airport tarmac,0.20286764204502106
+a stop sign on a wooden pole,0.050466734915971756
+a young man wearing glasses a shirt and tie,0.0515037477016449
+a dog jumping up to catch a frisbee,0.24274535477161407
+two cross country skiers in a skiing competition,0.1057719960808754
+a woman sitting at a table with a sandwich,0.12439864128828049
+a person riding skis on a snowy surface,0.10102890431880951
+a group of men standing next to each other,0.2824814021587372
+a red and white train traveling through a lush green countryside,0.07128504663705826
+a blue train pulling into a train station,0.16906100511550903
+a bowl filled with oranges next to a lamp,0.24602848291397095
+a close up of a plate of food with broccoli,0.12641389667987823
+a white bench in front of a garden,0.16965222358703613
+a black and white cow standing next to a wooden fence,0.2285914421081543
+a couple of double decker buses parked next to each other,0.3124423921108246
+a blender sitting on the side of the road,0.2467995136976242
+a computer keyboard sitting on top of a desk,0.22908636927604675
+a statue of a cow and a dog,0.16225619614124298
+a group of boats sitting on top of a beach,0.21920837461948395
+two men standing next to each other in a room,0.24195443093776703
+a white bowl filled with broccoli and orange slices,0.11817861348390579
+a couple of men standing next to each other,0.26204150915145874
+a giraffe standing in the doorway of a building,0.21440359950065613
+a room with two beds and a painting on the wall,0.237268328666687
+a couple of men standing next to each other,0.26204150915145874
+a man standing in a kitchen preparing food,0.0623798631131649
+a woman sitting on the floor playing a video game,0.1733851581811905
+a herd of sheep grazing on a dry grass field,0.1576712727546692
+a giraffe eating from a basket in a zoo enclosure,0.1814604252576828
+a blue cake sitting on top of a blue plate,0.2232496738433838
+a man reading a paper in a bathroom,0.08372028917074203
+a man in a suit holding a beer,0.12623047828674316
+a green light in front of a tall building,0.14977575838565826
+two people flying a kite on the beach,0.15834416449069977
+a cat and a cat sitting in a suitcase,0.10361235588788986
+a couple of cars driving down a wet road,0.12159168720245361
+a person riding a skate board at sunset,0.06250330805778503
+a little boy sitting at a computer desk,0.046114735305309296
+a person holding a sandwich in their hand,0.11841601133346558
+a woman blowing out candles on a cake,0.05793526768684387
+a couple of vases sitting on top of a table,0.2138223648071289
+a man and a little girl that are standing in the grass,0.1376284509897232
+a couple of trucks that are in the dirt,0.10741584002971649
+a woman walking a dog down a sidewalk,0.11674582958221436
+a black and white cat sitting on a desk,0.20501163601875305
+a public transit bus on a city street,0.11298173666000366
+a red stop sign sitting on the side of a road,0.2662508487701416
+a group of people riding on the backs of horses,0.22116805613040924
+a dog sits in the bed of a pickup truck,0.24421235918998718
+the big ben clock tower towering over the city of london,0.1904536932706833
+a little boy that is holding a stuffed animal,0.07317890226840973
+a couple of cows are standing in a field,0.16892458498477936
+a cat sitting on top of a desk next to a book,0.27933675050735474
+a yellow fire hydrant sitting on the side of a road,0.2700810134410858
+a person riding skis on a snowy surface,0.10102890431880951
+a slice of pizza on a paper plate,0.20613235235214233
+a row of colorful umbrellas in front of a building,0.28894731402397156
+a man wearing glasses eating a slice of pizza,0.19307668507099152
+a group of geese standing in the water,0.13779252767562866
+two horses that are standing in the grass,0.07365202158689499
+a log laying in the middle of a forest,0.18318906426429749
+a cup of coffee sitting on top of a table,0.2550567090511322
+a table topped with two plates of food,0.14711423218250275
+a group of people standing around a table,0.1663597822189331
+a blue and white car parked in a parking lot,0.16236601769924164
+a teddy bear sitting on the grass near the water,0.17316824197769165
+a person sitting in the snow with a snowboard,0.09408372640609741
+a bus parked in front of a bus stop,0.2479342222213745
+a man sitting in front of a laptop computer,0.1892872154712677
+a wooden bench sitting next to a lake,0.1726742535829544
+a white sink sitting under a bathroom mirror,0.06988425552845001
+a clock that is on the side of a building,0.1932867467403412
+a black and white cat laying in a red suitcase,0.13500547409057617
+a pan of food sitting on a stove top,0.10887248814105988
+a bunch of vegetables sitting on a cutting board,0.2560841143131256
+a woman sitting at a table in a hotel room,0.15798896551132202
+a table topped with plates of food and plates,0.1543394923210144
+a bedroom with two beds and a chair,0.1226251944899559
+a large jetliner flying through a blue sky,0.09605931490659714
+a horse being UNK by two men,0.006996107287704945
+a laptop computer sitting on top of a desk,0.23818066716194153
+a fork and a piece of cake on a plate,0.12911154329776764
+a black bear walking in a grassy field,0.16638211905956268
+a young boy is wearing a baseball glove,0.07622885704040527
+a group of people riding skis on a snowy surface,0.17617520689964294
+a woman is eating a banana in a chair,0.0771695077419281
+a young child standing outside a red door,0.03294610232114792
+a bowl filled with pasta meat and vegetables,0.1340324878692627
+people waiting to get on a subway train,0.09936032444238663
+a group of boxes sitting on top of a floor,0.24314862489700317
+a white toilet sitting inside of a bathroom stall,0.09249965101480484
+a baseball player swinging a bat at a ball,0.22225919365882874
+a person sitting at a table talking on a cell phone,0.23877649009227753
+a boat that is sitting in the grass,0.08800186216831207
+a person standing on a beach flying a kite,0.22782909870147705
+a traffic light with street signs on top of it,0.1236468106508255
+a woman riding on the back of a white horse,0.27016711235046387
+a motorcycle parked on the side of the road,0.3467177748680115
+a living room with couches and a coffee table,0.24335546791553497
+a man riding skis across a snow covered slope,0.09071240574121475
+a couple of cars driving down a road,0.11817554384469986
+a group of zebras in a grassy field,0.3235534429550171
+a living room filled with furniture and a window,0.13124334812164307
+a white toilet sitting inside of a bathroom,0.09369594603776932
+a woman is feeding a giraffe at the zoo,0.1715281456708908
+a close up of a cell phone on a table,0.17407561838626862
+a woman carrying a bag of luggage down a sidewalk,0.13830256462097168
+a close up of a pizza on a pan,0.13458004593849182
+a group of young boys playing a game of soccer,0.1559520810842514
+a red fire hydrant is covered in snow,0.1262950748205185
+a yellow boat floating on top of a body of water,0.29571908712387085
+a box filled with different types of donuts,0.2957293391227722
+a dog that is standing in the street,0.07129203528165817
+a man wearing a hat holding a frisbee,0.28842103481292725
+a group of chefs preparing food inside of a kitchen,0.15061095356941223
+a passenger train stopped at a train station,0.14638803899288177
+an old fire truck parked in the grass,0.07150396704673767
+a bed in a bedroom between two windows,0.10429731011390686
+a group of young people playing a game of frisbee,0.2803403437137604
+a man riding skis down a snow covered slope,0.11306184530258179
+a woman sitting at a table in front of a cake,0.2094363421201706
+a small dog sitting on a wooden chair,0.10132288187742233
+a dog jumping up to catch a frisbee,0.24274535477161407
+a bunch of fruits and vegetables on a counter,0.22213976085186005
+a close up of a plate of food with broccoli,0.12641389667987823
+a person on a surfboard in the water,0.13547757267951965
+a group of people standing next to each other,0.306175172328949
+a man and a woman standing in front of a cake,0.2861633598804474
+a man holding a nintendo wii game controller,0.15941090881824493
+a dog is sitting in the back of a car,0.1513112634420395
+a person sitting on a bench with an umbrella,0.11078289151191711
+a man swinging a bat at a ball,0.12070109695196152
+a red fire hydrant on a city street,0.20253655314445496
+a man standing next to a child in a field,0.19249729812145233
+a little girl sitting in front of a cake,0.17853565514087677
+a white bus parked in front of a building,0.19864097237586975
+a group of men on a field playing baseball,0.11554206162691116
+a city street filled with lots of traffic,0.2111489623785019
+a couple of men standing next to each other,0.26204150915145874
+a group of people standing around a table,0.1663597822189331
+a giraffe standing next to a metal fence,0.2677975594997406
+a white plate topped with meat and vegetables,0.15213042497634888
+a white bath tub sitting next to a toilet,0.1642184555530548
+a group of elephants walking down a street,0.15942694246768951
+a red boat floating in a body of water,0.250105619430542
+a group of giraffes in a zoo enclosure,0.2604772448539734
+a person laying in the snow with some skis,0.11005120724439621
+a herd of zebra standing on top of a grass covered field,0.25982725620269775
+a man flying through the air while riding a skateboard,0.2193887084722519
+two brown horses standing next to each other,0.2520540654659271
+a couple of pizzas that are on a pan,0.14635762572288513
+two elephants standing next to each other under a tree,0.28222569823265076
+a display case filled with lots of donuts,0.27088257670402527
+a person sitting on the ground with a skateboard,0.16751497983932495
+a vase of flowers sitting on a table,0.15850335359573364
+a group of elephants in a grassy field,0.18585056066513062
+a woman holding an umbrella over her head,0.18543113768100739
+a traffic light with a green street sign above it,0.12320367246866226
+a bathroom with two sinks and a tub,0.1430148035287857
+a close up of a slice of pizza on a plate,0.20663076639175415
+a man wearing a blue shirt and a tie,0.1419469565153122
+a red double decker bus driving down a street,0.19406786561012268
+a car parked in front of a display of pastries,0.18859493732452393
+a group of people riding skis on a snowy surface,0.17617520689964294
+a traffic light hanging from a metal pole,0.16333898901939392
+a large truck parked next to a stop sign,0.22337237000465393
+a woman holding a dog in front of a mirror,0.1976078599691391
+a man flying through the air while riding a skateboard,0.2193887084722519
+a bathroom with a toilet sink and mirror,0.08197594434022903
+a white plate topped with a slice of pizza,0.23208847641944885
+a person is cutting a piece of paper with scissors,0.1261417269706726
+a hotel room with a bed desk and television,0.08666675537824631
+two people riding surf boards on a wave,0.05223968252539635
+a bathroom with two sinks and a mirror,0.1372932642698288
+a close up of a plate of doughnuts on a table,0.1929701417684555
+a young boy in a tie holding an umbrella,0.06918396055698395
+two cows standing next to each other in a field,0.29236555099487305
+a large building next to a busy street,0.15654174983501434
+a large jetliner flying through a cloudy sky,0.0850815623998642
+a wooden bench sitting on top of a sandy beach,0.20676560699939728
+a white truck parked in front of a building,0.20563235878944397
+a man hitting a tennis ball with a tennis racquet,0.26383480429649353
+a man cooking hot dogs on a grill,0.10421349108219147
+a man and a woman in a hospital bed,0.21395500004291534
+a giraffe standing next to a stone wall,0.2695104777812958
+a couple of people standing on a beach holding surfboards,0.16147243976593018
+a table topped with plates of food and drinks,0.1678851842880249
+a large jetliner flying through a blue sky,0.09605931490659714
+a cake sitting on top of a pan,0.24495992064476013
+a slice of cake sitting on top of a plate,0.29293152689933777
+a living room filled with furniture and a man,0.1312044858932495
+a couple of benches sitting in a lush green field,0.10629572719335556
+a little girl that is sitting in front of a table,0.14654144644737244
+a computer desk filled with lots of books,0.21333077549934387
+two red double decker buses parked next to each other,0.3328084349632263
+a hotel room with two beds and a lamp,0.13753606379032135
+a man in a suit adjusting his tie,0.1193598061800003
+a couple of hotdogs are on a plate,0.0752900019288063
+a woman riding skis down a snow covered slope,0.1128394603729248
+a bathroom with two sinks and a mirror,0.1372932642698288
+some baseball players are playing baseball on a field,0.04944562539458275
+two parking meters sitting on the side of a road,0.21650323271751404
+a man holding a white frisbee in a field,0.19405505061149597
+two sheep standing next to each other in hay,0.2234472632408142
+a group of people standing on a beach flying a kite,0.23649360239505768
+a woman sitting outside eating a hot dog,0.09759513288736343
+a group of people walking down a rain soaked street,0.19239485263824463
+a person riding a skate board at a skate park,0.19285249710083008
+a train engine carrying carts into a station,0.050554029643535614
+a cat that is sitting on a bench,0.11089488863945007
+a large long train on a steel track,0.08860962092876434
+a person riding a skate board on a city street,0.16809788346290588
+a fighter jet flying through a blue sky,0.10168538242578506
+a pizza sitting on top of a wooden cutting board,0.27466264367103577
+a woman sitting on the ground next to a basket,0.1918284296989441
+a glass of wine next to a computer keyboard,0.1624056100845337
+a couple of men standing next to each other,0.26204150915145874
+a group of people standing around a table,0.1663597822189331
+a pizza sitting on top of a pan on top of a table,0.27899330854415894
+a group of young children sitting around a table,0.17289258539676666
+a group of people sitting next to each other,0.34570178389549255
+a statue of an elephant is in front of a clock,0.16810552775859833
+a woman riding a skateboard down a sidewalk,0.20809321105480194
+a teddy bear laying on a bed in a bedroom,0.18667298555374146
+a person on a motor bike on a road,0.0881337895989418
+a train that is sitting on a train track,0.1344788521528244
+a small pizza on a plate on a table,0.09705440700054169
+a plate of food and a drink on a table,0.11304769665002823
+a group of skiers on a snowy mountain,0.1545276790857315
+a man riding a horse through a muddy river,0.11767452210187912
+a man riding a motorcycle down the road,0.11877671629190445
+a man sitting next to a christmas tree,0.26309219002723694
+a dog jumping in the air to catch a frisbee,0.25055891275405884
+a white toilet sitting under a bathroom window,0.07470754534006119
+a woman in a red dress holding an umbrella,0.11901900172233582
+a group of young women playing a game of soccer,0.148048534989357
+a clock that is on the side of a building,0.1932867467403412
+two horses are pulling a carriage down the street,0.15768907964229584
+a couple of people that are standing in the grass,0.11162760853767395
+a close up of a person holding a hot dog,0.1685183197259903
+a group of people flying kites in a field,0.2109999805688858
+a man and a young boy wearing glasses,0.062746562063694
+a man standing in a field flying a kite,0.20844115316867828
+a white plate topped with different types of cake,0.19832050800323486
+three sheep are eating grass in a field,0.1016264334321022
+a man holding a tennis racquet on a tennis court,0.2521320581436157
+a close up of a person holding an apple,0.10074735432863235
+a man sitting at a desk with two computers,0.095770925283432
+a man riding a wave on top of a surfboard,0.2549054026603699
+a woman in a bikini sitting on a wooden floor,0.1270114630460739
+a plate of food and a glass of water,0.20365694165229797
+a couple of kids are looking at a giraffe,0.15179193019866943
+a statue of a man standing next to a giant elephant,0.2235325425863266
+two men are playing a video game,0.15322478115558624
+a large castle like building with a clock on it,0.05371037870645523
+a group of men riding on horses through a river,0.11085256189107895
+a stop sign on a city street corner,0.1284095197916031
+a living room filled with furniture under a painting,0.13241241872310638
+a giraffe standing in front of a stone wall,0.2775959372520447
+a man riding skis down a snow covered slope,0.11306184530258179
+a young child riding a snowboard down a hill,0.11296950280666351
+a polar bear standing next to a yellow frisbee,0.265190064907074
+a couple of giraffe standing in a grass field,0.11500681936740875
+a black and white photo of a street with cars,0.17956030368804932
+a couple of people that are in the snow,0.10191994160413742
+a little boy standing in the grass with a apple,0.10561908036470413
+a food truck parked on the side of the street,0.20886479318141937
+a child is flying a kite in a field,0.1942524015903473
+a row of bikes parked next to each other,0.2434978038072586
+a city street filled with lots of tall buildings,0.23881582915782928
+a bus parked on the side of the road,0.33160221576690674
+a man wearing a bow tie sitting on a couch,0.1988479495048523
+two people riding surf boards on a wave,0.05223968252539635
+a young man wearing a hat sitting on a bus,0.16018110513687134
+a table and chairs sitting outside of a house,0.08083616942167282
+a person riding a skateboard on a ledge,0.20423157513141632
+a close up of a bowl of food with broccoli,0.12639866769313812
+a baby elephant standing next to an adult elephant,0.17801910638809204
+a man standing in front of an open refrigerator,0.15880964696407318
+a giraffe standing next to a zebra on a field,0.31676390767097473
+a baseball player swinging a bat during a game,0.2682229280471802
+the contents of a purse sitting on the floor,0.19932390749454498
+a cat laying on the hood of a car,0.26173946261405945
+a man wearing a helmet on a skateboard,0.21397320926189423
+a living room filled with furniture and decor,0.13867563009262085
+a brown horse wearing a red bow tie,0.1169896349310875
+a group of people sitting at a table together,0.2309776246547699
+a public transit bus on a city street,0.11298173666000366
+a young man doing a trick on a skateboard,0.16962338984012604
+a group of cows that are standing in the grass,0.13048240542411804
+a man sitting at a table talking on a cell phone,0.20278812944889069
+a couple of kids that are standing in the grass,0.12154531478881836
+a man flying through the air on top of a skateboard,0.2848847210407257
+a couple of women sitting next to each other,0.2790020704269409
+a red passenger train stopped at a train station,0.1329304724931717
+a couple of hotdogs are in a tray,0.07023008912801743
+a woman standing in the middle of an airport,0.16809721291065216
+a silver truck parked in a parking lot,0.15405602753162384
+a young boy playing soccer on a field,0.07755492627620697
+a white cat sitting on the back of a car,0.2031872421503067
+a giraffe standing on top of a lush green field,0.27322691679000854
+a young boy riding a skateboard down a sidewalk,0.1854107528924942
+a red and white oven in a kitchen,0.06528307497501373
+a close up of a cat on a bench,0.13003848493099213
+a bird perched on top of a giraffe,0.3248843252658844
+a couple of people that are standing in the grass,0.11162760853767395
+a group of people standing on a lush green field,0.16859012842178345
+a clock hanging on a wall next to a window,0.24826164543628693
+two men jumping in the air to catch a frisbee,0.2255864292383194
+two men are snowboarding down a snowy hill,0.1673072874546051
+a man riding a surfboard on top of a wave,0.2645832300186157
+a group of surfboards standing in the sand,0.12010543793439865
+a close up of a cat eating an apple,0.1410214900970459
+a yellow fire truck parked inside of a building,0.06677671521902084
+a row of bicycles parked next to each other,0.24298450350761414
+a close up of a person holding a cell phone,0.2220926582813263
+a man riding a surfboard on a river,0.19217942655086517
+a desktop computer sitting on top of a desk,0.22143064439296722
+a large bed sitting in a bedroom between two windows,0.08492755144834518
+a bus with bicycles attached to the front,0.08590767532587051
+a young boy riding skis down a snow covered slope,0.10796866565942764
+a dog running in the snow with a hat on,0.11696968972682953
+a person riding a surf board with a parachute,0.1010129377245903
+two cats are looking out of a window,0.1262701451778412
+a crowd of people standing around with umbrellas,0.2433301955461502
+a white stove top oven sitting inside of a kitchen,0.09350572526454926
+a cat sitting on top of a pair of shoes,0.2846226990222931
+a herd of cattle grazing on a lush green field,0.17526134848594666
+a large elephant walking across a dirt road,0.1191854327917099
+a group of people riding skis down a snow covered slope,0.18580178916454315
+three brown horses standing next to each other,0.23794665932655334
+a man riding a skateboard down a ramp,0.1994534283876419
+a woman holding a tennis racquet on a tennis court,0.25054699182510376
+a man wearing a hat holding a cell phone,0.22042950987815857
+a close up of a person holding a cell phone,0.2220926582813263
+a person in a field with a frisbee,0.13967204093933105
+a group of people riding skis on a snowy surface,0.17617520689964294
+a white bowl filled with sliced up bananas,0.10923722386360168
+a couple of people standing on top of a sandy beach,0.20046889781951904
+a yellow school bus parked in front of a city skyline,0.21064125001430511
+a woman standing next to a pile of luggage,0.2522096037864685
+a train on a track near many buildings,0.05294107645750046
+a sandwich sitting on top of a paper plate,0.2353152185678482
+a large white truck parked inside of a building,0.06285883486270905
+two laptop computers are sitting on a desk,0.11204849928617477
+a long train traveling through a lush green countryside,0.036252863705158234
+a couple of people sitting on a wooden bench,0.141953706741333
+a group of people standing around a table,0.1663597822189331
+a couple of zebra standing on top of a grass covered field,0.16648346185684204
+a young boy swinging a baseball bat on a field,0.1664423793554306
+a desk with two computers and a laptop,0.08333320915699005
+two birds standing on a dock by the water,0.14526504278182983
+a group of people walking down a street holding umbrellas,0.30962178111076355
+a dog laying down with a hat on his head,0.15263262391090393
+a clock that is on the side of a building,0.1932867467403412
+a man is holding a pair of scissors,0.2094641625881195
+a man holding a glass of wine at a table,0.1758759617805481
+a laptop computer sitting on top of a table,0.2308417558670044
+a close up of a slice of pizza on a plate,0.20663076639175415
+a group of zebra standing on top of a lush green field,0.22909227013587952
+a close up of broccoli on a plate,0.15597699582576752
+a man riding on the back of an elephant,0.21313321590423584
+two people riding on the back of an elephant,0.174136683344841
+a man holding a tennis racquet on a tennis court,0.2521320581436157
+a group of men sitting around a pile of luggage,0.24673707783222198
+a small bird perched on a rock,0.15220998227596283
+a group of people riding skis across a body of water,0.30379346013069153
+a kitchen with a stove and a refrigerator,0.0956709235906601
+a man standing next to a parked train,0.1675342470407486
+a fire truck parked in front of a building,0.20796801149845123
+a boat that is sitting in the water,0.13430127501487732
+a man riding on the back of an elephant,0.21313321590423584
+a person sitting on the ground with some food,0.07179302722215652
+a zebra laying on the ground next to a tree,0.20664872229099274
+a clock sitting on the side of a wall,0.21263976395130157
+a public transit bus on a city street,0.11298173666000366
+two people swimming in the water near a boat,0.11273007839918137
+a woman holding a cell phone in her hand,0.21350285410881042
+a man standing next to an elephant behind a fence,0.14573021233081818
+a young man holding a tennis racquet on a tennis court,0.2485237419605255
+a white toilet sitting in a bathroom next to a tub,0.1891876608133316
+a large long train on a steel track,0.08860962092876434
+a traffic light suspended over a city street,0.09795501083135605
+a cake sitting on top of a table,0.2440653294324875
+a couple of urinals in a public bathroom,0.11863020062446594
+a young boy holding a black cell phone,0.12300602346658707
+a couple of people that are holding umbrellas,0.24152199923992157
+a table filled with plates and bowls of food,0.17564749717712402
+a fruit stand with bananas and other fruit,0.07312905043363571
+a pan of food sitting on top of a stove,0.20052118599414825
+an open suitcase on a bed with various items,0.04296785220503807
+a person standing in front of a tv screen,0.20970219373703003
+two motorcycles parked next to each other on a sidewalk,0.2870478928089142
+a bird perched on top of a wooden pole,0.23517175018787384
+a group of men on a field playing baseball,0.11554206162691116
+a pair of red shoes sitting on a tile floor,0.22052472829818726
+a close up of many different colored ties,0.08370274305343628
+a bathroom with a toilet and a sink,0.16728484630584717
+a couple of plates of food on a table,0.13152174651622772
+a baseball player holding a bat on a field,0.1498725861310959
+an open laptop computer sitting on top of a desk,0.21757027506828308
+a black and white cat laying next to a laptop,0.2311609387397766
+a clock that is on the side of a building,0.1932867467403412
+a train traveling down train tracks next to luggage,0.18321028351783752
+a man flying through the air while riding a skateboard,0.2193887084722519
+a pizza sitting on top of a white plate,0.2037554830312729
+a airplane that is flying in the air,0.10488695651292801
+a desk that has three computers on it,0.11151431500911713
+a living room filled with furniture and a flat screen tv,0.17220783233642578
+a large long train on a steel track,0.08860962092876434
+a dog herding a herd of sheep in a field,0.21944445371627808
+a person running in a field with a kite,0.11377974599599838
+a baseball player swinging a bat on top of a field,0.2547040283679962
+a motorcycle parked in front of a store,0.21964280307292938
+a man riding a snowboard down a snow covered slope,0.11841882765293121
+a large building with a clock at the top,0.14034992456436157
+a couple of giraffe standing next to each other,0.2576763331890106
+a man riding a wave on top of a surfboard,0.2549054026603699
+a bunch of stuffed animals are on display,0.1564527153968811
+a person standing next to a white refrigerator,0.1624404639005661
+a kitchen with white cabinets and black counters,0.06326501816511154
+a piece of art with a man on top of it,0.21050892770290375
+a group of people sitting at a table together,0.2309776246547699
+a couple of cars driving down a city street,0.17987500131130219
+a horse that is standing in the grass,0.06403736025094986
+a bird perched on top of a tree branch,0.24970902502536774
+a pair of red scissors sitting on top of a table,0.2579503059387207
+a table and chairs in a small room,0.09069821983575821
