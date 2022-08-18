@@ -1,0 +1,173 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Interact Net</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="../js/hidebib.js"></script>
+
+
+
+</head>
+
+<body> 
+
+<div class="container">
+  <table border="0" align="center">
+    <tr><td width="623" align="center" valign="middle"><h3>Belief Revision based Caption Re-ranker with Visual Semantic Information </h3></td></tr>
+    <tr><td width="300" align="center" valign="middle">   <a href="https://www.cs.upc.edu/~asabir/">Ahmed Sabir</a>, <a href="https://www.iri.upc.edu/people/fmoreno/">Francesc Moreno-Noguer</a>, 
+       <a href="https://pmadhyastha.github.io/">Pranava Madhyastha</a> ,  <a href="https://www.cs.upc.edu/~padro/">Lluís Padró</a></td></tr>
+  </table>
+  </br>
+  
+
+
+
+
+  <p align="center"> <img src="overview.png" width="700" align="middle" /></p>
+
+
+</table>
+<table width="400px" align="center">
+  <tr>
+    <td align=center width=100px>
+      <center>
+        <span style="font-size:15px"><a href="https://arxiv.org/.pdf">[Paper]</a></span>
+      </center>
+    </td>
+    <td align=center width=200px>
+      <center>
+        <span style="font-size:15px"><a href="https://github.com">[Code]</a></span>
+      </center>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:15px"><a href="https://github.com">[Demo]</a></span>
+        </center>
+    </td>
+</table>
+
+  
+</div>
+
+</br>
+
+<div class="container">
+  <h2>Abstract</h2>
+
+  
+
+    <p style="text-align:left"> In this work, we propose a re-ranking approach to improve the performance of caption generation systems. We leverage 
+        on visual semantic measures to match the proper caption to its related visual information in the image (e.g object information). 
+        The re-ranker uses human inspired Belief Revision (<a href="https://www.aaai.org/Papers/Symposia/Spring/2003/SS-03-05/SS03-05-005.pdf">Blok et. al. 2003</a>) to revise the caption original likelihood using the semantic 
+        relatedness via visual context from the image.  Experiments show that adding visual information can improve the performance of the 
+        captioning system without re-training or fine-tuning. Additionally, we investigate whether a simple semantic similarity-based metric 
+        SBERT-sts for caption evaluation can capture similarities better than word n-gram based metrics.</a></tr>
+</div>
+
+</br>
+
+
+
+
+
+<div class="container" text-align="left">
+  <h2>Visual Re-ranking with Belief Revision</h2>
+    <table border="0" align="left">
+      <tr><td width="1000" align="left">  The <a href="https://www.aaai.org/Papers/Symposia/Spring/2003/SS-03-05/SS03-05-005.pdf">Belief revision</a>  is 
+        a conditional probability model which assumes that the preliminary probability finding is revised to the extent warranted by the hypothesis proof.  
+       </br>
+        </br>
+        <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w \mid c)=\text{P}(w)^{\alpha}"> 
+      </br>
+      </br>
+        where the main components of hypothesis revision as caption visual semantics re-ranker:
+      </br>
+    </br>
+        1. Hypothesis (caption candidates beam search) <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w)"> initialized by common observation (i.e., language model) 
+      </br>
+    </br>     
+        2. Informativeness  <img src="https://render.githubusercontent.com/render/math?math=1-\text{P}(c)"> of the visual context from the image
+      </br>
+    </br>   
+        3. Similarities <img src="https://render.githubusercontent.com/render/math?math=\alpha=\left[\frac{1 - \text{sim}(w, c)}{1%2B\text{sim}(w, c)}\right]^{1-\text{P}(c)}"> the relatedness between the two concepts (visual context and hypothesis) with respect to the informativeness of the visual information.
+      </br>
+    </br>
+        
+    Here is a  <a href="https://github.com/">Notebook</a> to show the Visual Re-ranking based Belief Revision </td></tr>
+      
+
+  
+      <tr><td width="1000" align="left"> 
+        <div class="paper" id="ap_agent">
+          <h2>Example</h2>
+          <p>In this example, we extract top-20 beam search from SOTA caption transformer and re-ranked them with Visual  Belief Revision.</p>
+          <p align="center"> <img src="image_from_coco.jpg" width="300" align="middle" /></p>
+          <a shape="rect" href="javascript:togglebib('ap_agent')" class="togglebib">Beam Search<sub>baseline</sub></a>
+          <pre xml:space="preserve">
+            a longhorn cow with horns standing in a field
+            two bulls standing next to each other	 
+            two bulls with horns standing next to each other	 
+            two bulls with horns standing next to each other	 
+            two bulls with horns standing next to each other	 
+            two bulls with horns standing next to each other	 
+            two bulls with horns standing next to each other	 
+            two bulls with horns standing next to each other	 
+            two bulls with horns standing next to each other	 
+            two bulls with horns standing next to each other	 
+            a couple of bulls standing next to each other	 
+            a couple of bulls standing next to each other	 
+            two long horn bulls standing next to each other	 
+            two long horn bulls standing next to each other	 
+            two long horn bulls standing next to each other	 
+            two long horn bulls standing next to each other
+            two long horn bulls standing next to each other	
+            two long horn bulls standing next to each other
+            two long horn bulls standing next to each other
+            two long horn bulls standing next to each other
+          </pre>       
+        </div>
+      </td></tr>
+      <tr><td width="1000" align="left"> 
+        <div class="paper" id="ap_role_scenario1">
+          <a shape="rect" href="javascript:togglebib('ap_role_scenario1')" class="togglebib">Visual Context<sub>ResNet/CLIP</sub> </a>
+          <pre xml:space="preserve">
+            COCO_val2014_000000235692.jpg [('ox', 0.49095494)]
+          </pre>       
+        </div>
+      </td></tr>
+
+
+      <tr><td width="1000" align="left"> 
+        <div class="paper" id="ap_role_scenario1">
+          <a shape="rect" href="javascript:togglebib('ap_role_scenario1')" class="togglebib">Visual  Belief Revision<sub>re-ranking</sub> </a>
+          <pre xml:space="preserve">
+            two bulls standing next to each other 0.31941289259462063
+            a couple of bulls standing next to each other 0.2858426977047663
+            two bulls with horns standing next to each other 0.26350009525262974
+            two long horn bulls standing next to each other 0.24074783064577798
+            a longhorn cow with horns standing in a field 0.0.03975113398536263
+          </pre>       
+        </div>
+      </td></tr>
+
+      
+    </table> 
+</div>
+
+</br>
+
+<div class="containersmall">
+  <p>Contact: <a href="mailto:asabir@cs.upc.edu">Ahmed Sabir</a></p>
+</div>
+ 
+<script xml:space="preserve" language="JavaScript">
+hideallbibs();
+</script>
+
+</body>
+</html>
