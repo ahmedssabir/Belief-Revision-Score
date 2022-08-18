@@ -1,0 +1,9 @@
+a city street filled with traffic at night,0.12328533083200455,0.20267974068745825
+a city street covered in snow at night,0.037100136280059814,0.04909393337460899
+a city street covered in traffic at night time,0.03519724681973457,0.07520629508551105
+a city street filled with traffic surrounded by tall buildings,0.226051464676857,0.3103442366528169
+a city street covered in traffic at night,0.0387863926589489,0.08237140365549671
+a city street filled with traffic surrounded by snow,0.19464504718780518,0.2782492003619312
+a city street filled with traffic and traffic lights,0.15021738409996033,0.31656802616847163
+a city street at night with cars and street lights,0.091767318546772,0.1698765843793748
+a city street at night with cars and street lamps,0.06422080099582672,0.13168964155767823
