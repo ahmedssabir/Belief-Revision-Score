@@ -8,6 +8,7 @@
 In this work, we propose a re-ranking approach to improve the performance of caption generation systems. We leverage on visual semantic measures to match the proper caption to its related visual information in the image (e.g object information). The re-ranker uses human inspired Belief Revision (Blok et. al. 2003) to revise the caption original likelihood using the semantic relatedness via visual context from the image.  Experiments show that adding visual information can improve the performance of the captioning system without re-training or fine-tuning. Additionally, we investigate whether a simple semantic similarity-based metric SBERT-sts for caption evaluation can capture similarities better than word n-gram based metrics. 
 <br/>
 <br/>
+
 This repository contains the  implementation of the paper [Re-ranking Caption Generation with Visual Context Semantics](https://arxiv.org)
 
 
