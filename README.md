@@ -270,7 +270,7 @@ To find the cosine score
 python SBERT-caption-eval/SBERT_eval_demo.py --ref ref_demo.txt --hyp hyp-demo_BeamS.txt or hyp-demo_visual_re-ranked.txt
 ```
 
-## Cloze Probability based Belife Revision 
+## Cloze Probability based Belief Revision 
 Cloze probability is the probability that a given word will be produced in a given context on
 a sentence completion task (last word).
 
