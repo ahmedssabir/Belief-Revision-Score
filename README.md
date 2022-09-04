@@ -72,7 +72,7 @@ source activate BRscore
 # tested with sentence_transformers-2.2.0
 pip install sentence_transformers 
 ```
-run with GPT-2+SRoBERTa 
+run [slide demo](https://github.com/sabirdvd/sabirdvd.github.io/blob/main/project_page/visual_re-ranker_2022/COLING_ppt_draft_v0.1.pdf) with GPT-2+SRoBERTa with result in ```Belief-revision_re-rank.txt```
 
 ```
 python model.py --c caption_demo.txt --vis visual_context_label_demo.txt --vis_prob visual_context_prob_demo.txt
