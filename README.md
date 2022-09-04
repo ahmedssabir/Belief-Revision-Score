@@ -75,7 +75,7 @@ pip install sentence_transformers
 run with GPT-2+SRoBERTa 
 
 ```
-python model.py  --c model/Example_1/caption.txt --vis model/Example_1/visual_context_label.txt --vis_prob model/Example_1/visual_context_prob.txt 
+python model.py --c caption_demo.txt --vis visual_context_label_demo.txt --vis_prob visual_context_prob_demo.txt
 ```
 Also interactive demo with huggingface-gardio by running this code or [colab](https://colab.research.google.com/drive/1JGPvyHptI65SDXXZNp75YdU_T3GdLVRs?usp=sharing) here
 
