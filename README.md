@@ -72,12 +72,14 @@ source activate BRscore
 # tested with sentence_transformers-2.2.0
 pip install sentence_transformers 
 ```
-run [slide demo](https://github.com/sabirdvd/sabirdvd.github.io/blob/main/project_page/visual_re-ranker_2022/COLING_ppt_draft_v0.1.pdf) with GPT-2+SRoBERTa with result in ```Belief-revision_re-rank.txt```
+run [slide demo](https://github.com/sabirdvd/sabirdvd.github.io/blob/main/project_page/visual_re-ranker_2022/COLING_ppt_draft_v0.1.pdf) with GPT-2+SRoBERTa with result in ```Belief-revision_re-rank.txt```. For the huggingface [Gradio_Demo](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Re-ranker) 
 
 ```
 python model.py --c caption_demo.txt --vis visual_context_label_demo.txt --vis_prob visual_context_prob_demo.txt
 ```
 Also interactive demo with huggingface-gardio by running this code or [colab](https://colab.research.google.com/drive/1JGPvyHptI65SDXXZNp75YdU_T3GdLVRs?usp=sharing) here
+
+
 
 ```
 pip install gradio 
