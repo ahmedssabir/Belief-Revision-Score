@@ -9,7 +9,7 @@
 generation systems. We propose a novel re-ranking approach that leverages
 visual-semantic measures to identify the ideal caption that maximally captures
 the visual information in the image. Our re-ranker utilizes the Belief Revision
-framework (Blok et al., 2003) to calibrate the original likelihood of the top-n
+framework ([Blok et al., 2003](https://www.aaai.org/Papers/Symposia/Spring/2003/SS-03-05/SS03-05-005.pdf) ) to calibrate the original likelihood of the top-n
 captions by explicitly exploiting the semantic relatedness between the depicted
 caption and the visual context. Our experiments demonstrate the utility of our
 approach, where we observe that our re-ranker can enhance the performance of a
