@@ -18,7 +18,7 @@ training or fine-tuning.
 <br/>
 <br/>
 
-This repository contains the  implementation of the paper [Belief Revision based Caption Re-ranker with Visual Semantic Information](https://arxiv.org)
+This repository contains the  implementation of the paper [Belief Revision based Caption Re-ranker with Visual Semantic Information](https://arxiv.org/pdf/2209.08163.pdf)
 
 
 
@@ -50,7 +50,8 @@ where the main components of hypothesis revision as caption visual semantics re-
  
 3. Similarities <img src="https://render.githubusercontent.com/render/math?math=\alpha=\left[\frac{1 - \text{sim}(w, c)}{1%2B\text{sim}(w, c)}\right]^{1-\text{P}(c)}"> the relatedness between the two concepts (visual context and hypothesis) with respect to the informativeness of the visual information.
  
-Here is a [Demo](visual_re-re-ranker_demo.ipynb) to show the Visual Re-ranking based Belief Revision 
+Here is a [Demo](visual_re-re-ranker_demo.ipynb) [Gradio_Demo](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Re-ranker) 
+ [Gradio_Demo_with_hypothesis](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Belief-Revision) to show the Visual Re-ranking based Belief Revision 
   
 ## Dataset
 We enrich COCO-caption with **textual Visual Context** information. We use [ResNet152](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) to extract
@@ -63,7 +64,7 @@ We enrich COCO-caption with **textual Visual Context** information. We use [ResN
 | gown  | groom       |  apron   |    its time to cut the cake at this couples wedding   |
 
 
-More information about the visual context extraction  [paper](https://github.com/ahmedssabir/dataset)
+More information about the visual context extraction  [paper](https://github.com/ahmedssabir/Textual-Visual-Semantic-Dataset)
 
 
 
@@ -81,7 +82,7 @@ source activate BRscore
 # tested with sentence_transformers-2.2.0
 pip install sentence_transformers 
 ```
-run [slide demo](https://github.com/sabirdvd/sabirdvd.github.io/blob/main/project_page/visual_re-ranker_2022/COLING_ppt_draft_v0.1.pdf) with GPT-2+SRoBERTa with result in ```Belief-revision_re-rank.txt```. For the huggingface [Gradio_Demo](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Re-ranker) 
+run [slide demo](https://github.com/sabirdvd/sabirdvd.github.io/blob/main/project_page/visual_re-ranker_2022/ppt.pdf) with GPT-2+SRoBERTa with result in ```Belief-revision_re-rank.txt```. For the huggingface [Gradio_Demo](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Re-ranker) 
 
 ```
 python model.py --c caption_demo.txt --vis visual_context_label_demo.txt --vis_prob visual_context_prob_demo.txt
