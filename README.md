@@ -356,10 +356,10 @@ For quick start a [colab demo](https://colab.research.google.com/drive/1ipTLmZxL
 The details of this repo are described in the following paper. If you find this repo useful, please kindly cite it:
 
 ```bibtex
-@inproceedings{XXXXXX,
-  title={ZZZZZZ},
-  author={XXXXX},
-  booktitle={XXXX},
+@article{sabir2022belief,
+  title={Belief Revision based Caption Re-ranker with Visual Semantic Information},
+  author={Sabir, Ahmed and Moreno-Noguer, Francesc and Madhyastha, Pranava and Padr{\'o}, Llu{\'\i}s},
+  journal={arXiv preprint arXiv:2209.08163},
   year={2022}
 }
 ```
