@@ -320,6 +320,8 @@ a city street filled with traffic and traffic lights 3.0824517390664777e-16
 ```
 The first sentence is more diverse and without any repetition of word traffic.
 
+please refer to the [code](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/cloze_prob) 
+
 ## Other Task: Sentence Semantic Similarity
 
 ```
