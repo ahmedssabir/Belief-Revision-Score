@@ -359,7 +359,9 @@ belief_revision = 0.557584688720967
 1) belief_revision_score balances the high similarity score using human-inspired logic understanding.  The similarity cosine distance alone is not a reliable score in some scenarios as it measures the angle between vectors in the semantic space.
  
 
-2) The output is a probability that can be used to re-rank or combined with another score. Note that with a cosine distance you cant do that.
+2)  The output is a probability,  so it can be re-ranked or combined with another score. (Note that with the cosine distance is not feasible)
+
+
 
 
 For quick start [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing)
