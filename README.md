@@ -1,5 +1,8 @@
 
-[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org/pdf/2209.08163.pdf)  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org/pdf/2209.08163.pdf)  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JGPvyHptI65SDXXZNp75YdU_T3GdLVRs?usp=sharing)
+
+
+
 
 #  Belief Revision Score
 
