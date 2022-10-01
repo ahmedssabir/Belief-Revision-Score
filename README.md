@@ -322,6 +322,12 @@ The first sentence is more diverse and without any repetition of word traffic.
 
 please refer to the [code](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/cloze_prob) 
 
+or run 
+
+```
+python cloze_prob/model_coze.py  --c caption.txt --vis visual_context_label.txt --vis_prob visual_context_prob.txt 
+```
+
 ## Other Task: Sentence Semantic Similarity
 
 ```
