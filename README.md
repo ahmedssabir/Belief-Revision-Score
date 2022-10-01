@@ -353,7 +353,9 @@ belief_revision = 0.557584688720967
 2) The output is a probability that can be used to re-rank or combined with another score. Note that with a cosine distance you cant do that.
 
 
-For quick start a [colab demo](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing)
+For quick start (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing#scrollTo=vd-ZOPQDEY3n)
+
+
 
 ## Citation
 
