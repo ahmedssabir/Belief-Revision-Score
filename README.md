@@ -1,5 +1,4 @@
 
-[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org/pdf/2209.08163.pdf)  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JGPvyHptI65SDXXZNp75YdU_T3GdLVRs?usp=sharing)
 
 
 
@@ -19,6 +18,9 @@ typical image-captioning system without the necessity of any additional
 training or fine-tuning.
 <br/>
 <br/>
+
+[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org/pdf/2209.08163.pdf)  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JGPvyHptI65SDXXZNp75YdU_T3GdLVRs?usp=sharing)
+
 
 This repository contains the  implementation of the paper [Belief Revision based Caption Re-ranker with Visual Semantic Information](https://arxiv.org/pdf/2209.08163.pdf) 
 
