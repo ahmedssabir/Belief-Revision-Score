@@ -325,8 +325,7 @@ To run this,
 python cloze_prob/model_coze.py  --c caption.txt --vis visual_context_label.txt --vis_prob visual_context_prob.txt 
 ```
 
-please refer to the [code](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/cloze_prob) for more examples.  
-
+Go here for more [details and code](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/cloze_prob) 
 
 
 ## Other Task: Sentence Semantic Similarity
