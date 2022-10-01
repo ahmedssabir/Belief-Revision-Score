@@ -1,5 +1,5 @@
 
-[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org/pdf/2209.08163.pdf) 
+[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org/pdf/2209.08163.pdf)  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
 #  Belief Revision Score
 
