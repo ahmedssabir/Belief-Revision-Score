@@ -34,7 +34,7 @@ This repository contains the  implementation of the paper [Belief Revision based
 3. [Model](#Model)
 4. [Visual Re-ranking with Negative Evidence](#Visual-Re-ranking-with-Negative-Evidence)
 5. [Semantic Diversity Evaluation](#Semantic-Diversity-Evaluation)
-6. [Cloze Prob based Belife Revision](#Cloze-Prob-based-Belife-Revision)
+6. [Cloze Prob based Belife Revision](#Cloze-Probability-based-Belief-Revision)
 7. [Other Task: Sentence Semantic Similarity](#Other-Task-Sentence-Semantic-Similarity)
 8. [Citation](#Citation)
 
