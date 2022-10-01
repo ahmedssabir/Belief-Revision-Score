@@ -54,7 +54,7 @@ where the main components of hypothesis revision as caption visual semantics re-
  
 3. Similarities <img src="https://render.githubusercontent.com/render/math?math=\alpha=\left[\frac{1 - \text{sim}(w, c)}{1%2B\text{sim}(w, c)}\right]^{1-\text{P}(c)}"> the relatedness between the two concepts (visual context and hypothesis) with respect to the informativeness of the visual information.
  
-Here is a [Demo](visual_re-re-ranker_demo.ipynb) [Gradio_Demo](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Re-ranker) 
+Here is a [Gradio_Demo](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Re-ranker) 
  [Gradio_Demo_with_hypothesis](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Belief-Revision) to show the Visual Re-ranking based Belief Revision 
   
 ## Dataset
