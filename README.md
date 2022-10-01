@@ -1,4 +1,5 @@
 
+[![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org/pdf/2209.08163.pdf)
 
 #  Belief Revision Score
 
