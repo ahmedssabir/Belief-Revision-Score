@@ -320,13 +320,14 @@ a city street filled with traffic and traffic lights 3.0824517390664777e-16
 ```
 The first sentence is more diverse and without any repetition of word traffic.
 
-please refer to the [code](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/cloze_prob) 
-
-or run 
-
+To run this, 
 ```
 python cloze_prob/model_coze.py  --c caption.txt --vis visual_context_label.txt --vis_prob visual_context_prob.txt 
 ```
+
+please refer to the [code](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/cloze_prob) and more examples.  
+
+
 
 ## Other Task: Sentence Semantic Similarity
 
