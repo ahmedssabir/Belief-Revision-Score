@@ -346,7 +346,7 @@ Exp:
 sent =  'Obama speaks to the media in Illinois' 
 context_sentence =  'The president greets the press in Chicago'
 ```
-The two sentences is related but not similar and belief revision score capture the relatedness better than semantic similarity.
+The two sentences are related but not similar and the belief revision score captures the relatedness better than semantic similarity.
 
 
 ```
