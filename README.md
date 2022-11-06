@@ -49,7 +49,7 @@ The [Belief revision](https://www.aaai.org/Papers/Symposia/Spring/2003/SS-03-05/
 
 where the main components of hypothesis revision as caption visual semantics re-ranker:
 
-1. Hypothesis (caption candidates beam search) <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w)"> initialized by common observation (ie language model) 
+1. Hypothesis (caption candidates beam search) <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w)"> initialized by common observation (ie., language model) 
    
 2. Informativeness  <img src="https://render.githubusercontent.com/render/math?math=1-\text{P}(c)"> of the visual context from the image
  
@@ -77,7 +77,7 @@ More information about the visual context extraction  [paper](https://github.com
 Here, we describe in more detail the impalement of belief revision as a visual re-ranker. We show that by
 integrating visual context information, a more descriptive caption is re-ranked higher. 
 Our model can  be used as a drop-in complement for any caption generation algorithm 
-that outputs a list of candidate captions
+that outputs a list of candidate captions.
 
 To run the **B**elief **R**evision-**S**core via visual context directly with GPT-2 ans SRoBERTa-sts
 
@@ -222,7 +222,7 @@ high confidence to query pre-trained 840B [GloVe](https://nlp.stanford.edu/pubs/
 <img align="center" width="400" height="200" src="example.jpg">
 
 
-In this example, we will use the **second method** with Pre-trained [Glove](https://nlp.stanford.edu/projects/glove/) Vector to extract the negative information related to the visual context but not detected in the image.
+In this example, we will use the **second method** with Pre-trained [GloVe](https://nlp.stanford.edu/projects/glove/) Vector to extract the negative information related to the visual context but not detected in the image.
 
 ``` 
 conda create -n GloVe python=3.8 anaconda
@@ -319,7 +319,7 @@ Cloze_Prob based Belife revision
 a city street at night with cars and street lamps 0.18269163340435274
 a city street filled with traffic and traffic lights 3.0824517390664777e-16
 ```
-The first sentence is more diverse and without any repetition of word traffic.
+The first sentence is more diverse and without any repetition of _word traffic_.
 
 To run this, 
 ```
@@ -346,8 +346,8 @@ Exp:
 sent =  'Obama speaks to the media in Illinois' 
 context_sentence =  'The president greets the press in Chicago'
 ```
-The two sentences is related but not similar and belief revision score capture the relatedness better than semantic similarity.
 
+The two sentences are related but not similar and the belief revision score captures the relatedness better than semantic similarity.
 
 ```
 # SBERT cosine 
@@ -359,7 +359,9 @@ belief_revision = 0.557584688720967
 1) belief_revision_score balances the high similarity score using human-inspired logic understanding.  The similarity cosine distance alone is not a reliable score in some scenarios as it measures the angle between vectors in the semantic space.
  
 
-2)  The output is a probability,  so it can be re-ranked or combined with another score. (Note that with the cosine distance is not feasible)
+2)  The output is a probability,  so it can be re-ranked or combined with another score or classifier  (e.g., [Products of Experts](https://www.cs.toronto.edu/~hinton/absps/icann-99.pdf)). (Note that with the cosine distance is not feasible)
+
+
 
 
 
