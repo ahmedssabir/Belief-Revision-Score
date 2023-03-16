@@ -14,7 +14,8 @@ parser.add_argument('--ref_2',  default='karpathy-refs-2.txt', help='human annot
 parser.add_argument('--ref_3',  default='karpathy-refs-3.txt', help='human annotation', type=str,required=False)  
 parser.add_argument('--ref_4',  default='karpathy-refs-4.txt', help='human annotation', type=str,required=False) 
 parser.add_argument('--ref_5',  default='karpathy-refs-5.txt', help='human annotation', type=str,required=False) 
-parser.add_argument('--hyp', default='beam_search.txt', help='caption baseline', type=str,required=False)  
+parser.add_argument('--hyp', default='beam_search.txt', help='caption baseline', type=str,required=False)
+parser.add_argument('--output', default='score,txt', help='output', type=str,required=False)    
 args = parser.parse_args()
 
 
@@ -40,7 +41,7 @@ def MaxValue():
     max_value = max(sim_result)
     return max_value
 
-output_path= 'cosine_score_baseline_b5.txt'
+output_path = args.output
 f=open(output_path, "w")
 for i in range(len(get_lines(args.ref_1))):
     temp =[]
@@ -65,10 +66,9 @@ for i in range(len(get_lines(args.ref_1))):
     result = re.sub(r'\s*,\s*', ',', result) 
 
     #statistics.mean(l) 
-
     f.write(result)
     f.write('\n')
-    print(result)
+    #print(result)
 
 f.close()
 
