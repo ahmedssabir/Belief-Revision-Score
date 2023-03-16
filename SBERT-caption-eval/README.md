@@ -4,7 +4,7 @@
 **Div-n** and **mblue**  from [Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training](https://github.com/rakshithShetty/captionGAN)
 
 ``` 
-python2 computeDivStats.py
+ python2 computeDivStats.py beam_sample.json
 ```
 
 Vocabulary size
