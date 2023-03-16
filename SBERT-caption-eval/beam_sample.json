@@ -5001,32 +5001,5 @@
       {"candidatelist": [{"text": "two men sitting on a beach with surfboards"},{"text": "two people sitting on the beach looking at surfboards"}],"img_path": "COCO_val2014_000000581886.jpg","candidate": {"text": "two men sitting on a beach with surfboards"}},
       {"candidatelist": [{"text": "two horses in a field with a fence in the background"},{"text": "two horses in a field eating grass"}],"img_path": "COCO_val2014_000000581929.jpg","candidate": {"text": "two horses in a field with a fence in the background"}}
 
-                ],
-    "params": {
-        "nmodels": 1,
-        "mat_new_ver": 1,
-        "labels": "",
-        "featfromlbl": "",
-        "checkpoint_path": "",
-        "softmax_propogate": 0,
-        "feat_file": "",
-        "aux_inp_file": "",
-        "use_label_file": 1,
-        "uselabel": 0,
-        "computelogprob": 0,
-        "keepN": -1,
-        "multi_model": 0,
-        "greedy": 1,
-        "fname_append": "",
-        "poolmethod": "",
-        "softmax_smooth_factor": 1.0,
-        "dobeamsearch": 0,
-        "imgList": "",
-        "root_path": "example_images",
-        "gen_model": null,
-        "rescoreByLen": 0,
-        "beam_size": 5,
-        "disk_feature": 0,
-        "en_aux_inp": 1
-    }
+                ]
 }
