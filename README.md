@@ -215,7 +215,7 @@ the belief of the hypothesis. However the same [work](https://link.springer.com/
 In our case we tried to introduce negative evidence in two ways: **(1)** objects detected by the object classifier (_e.g._ ResNet)
 with very low confidence and not present in the image and thus it can be used as negative evidence,
 and **(2)** using the objects detected with
-high confidence in the image as a _query_ to pre-trained 840B [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)  and retrieve the close concepts, and then, we employ the objects are not detected/present in the image as negative evidence.
+high confidence in the image as a _query_ to pre-trained 840B [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)  and retrieve the close concepts, and then, we employ the retrieved objects are not detected/present in the image as negative evidence.
 
 
 
