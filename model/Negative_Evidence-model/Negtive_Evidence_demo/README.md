@@ -43,7 +43,7 @@ Then the output _label class_ ``ox`` is used as **query** to retrieve close conc
 python similar_vector.py
 ``` 
 
-The negative visual information from GloVe is ``goat`` and  it will be used to decrease the hypothesis. Next, we need to init that negative visual context with common observation (LM) 
+The negative visual information from GloVe is ``goat`` and  it will be used to decrease the hypothesis. Next, we need to initialize that negative visual context with common observation (LM) 
 
 ``` 
 python negative_visual_context_inti_GPT2.py
