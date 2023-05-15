@@ -1,5 +1,5 @@
 ## Semantric Relatendes with BERT  
-Fine-tune BERT on the created  dataset. 
+Fine-tune BERT on the created  dataset. Please refer to [BERT-CNN](https://github.com/ahmedssabir/Textual-Visual-Semantic-Dataset)
 
 ### Requirements
 - Tensorflow 1.15.0
