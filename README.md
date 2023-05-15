@@ -224,7 +224,7 @@ high confidence in the image as a _query_ to pre-trained 840B [GloVe](https://nl
 <img align="center" width="400" height="200" src="example.jpg">
 
 
-In this example, we will use the **second method** with Pre-trained [GloVe](https://nlp.stanford.edu/projects/glove/) Vector to extract the negative information related to the visual context but not detected in the image.
+In this example, we will use the **second method** with a Pre-trained [GloVe](https://nlp.stanford.edu/projects/glove/) vector to extract the negative information related to the visual context but not detected in the image.
 
 ``` 
 conda create -n GloVe python=3.8 anaconda
