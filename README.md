@@ -115,7 +115,7 @@ conda activate LM-GPT
 pip install lm-scorer
 python model/LM-GPT-2.py 
 ``` 
-Second, we need the visual context from the image 
+Second, we need the visual context from the image, and thus we need [visual classifiers](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152) 
 ````
 python  model/run-visual.py
 ```` 
