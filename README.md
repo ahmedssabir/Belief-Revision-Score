@@ -165,7 +165,7 @@ a city street covered in traffic at night
 
 
 
-Visual re-ranked beam serach  = 5 
+Visual re-ranked beam  search  = 5 
 
 ``` 
 a city street filled with traffic surrounded by tall buildings 
@@ -193,7 +193,7 @@ two bulls with horns standing next to each other
 two bulls with horns standing next to each other
 ```
 
-Visual re-ranked beam serach  = 5   
+Visual re-ranked beam  search  = 5   
 ``` 
 two bulls standing next to each other 
 a couple of bulls standing next to each other 
