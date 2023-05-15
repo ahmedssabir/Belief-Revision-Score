@@ -75,8 +75,7 @@ for i in range(len(get_lines(args.sent))):
 
     sim = cosine_scores = util.pytorch_cos_sim(sent_emb, context_sent_emb)
     sim = sim.cpu().numpy()
-    sim = str(sim)[1:-1]
-    sim = str(sim)[1:-1]
+    sim = sim.item()
     print('sim', sim)
     score = Visual_re_ranker(sent, context_sent, sim)
     score = score.belief_revision()
