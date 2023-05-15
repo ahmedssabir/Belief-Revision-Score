@@ -314,7 +314,7 @@ cloze_prob('a city street filled with traffic and traffic lights')
 0.40925383021394385
 ```
 
-Cloze_Prob based Belife revision
+Cloze_Prob based Belife Revision
 
 ```
 a city street at night with cars and street lamps 0.18269163340435274
