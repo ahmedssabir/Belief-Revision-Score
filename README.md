@@ -106,7 +106,7 @@ python demo.py
 
 To run each step separately, which gives you the flexibility to use different SoTA model (or your custom model)
 
-First, we need to initialize the hypothesis with common observation ie lanaguage model [(GPT2)](https://github.com/simonepri/lm-scorer)
+First, we need to initialize the hypothesis with common observation _i.e._ lanaguage model [(GPT2)](https://github.com/simonepri/lm-scorer)
 
 
 ```
