@@ -31,7 +31,7 @@ two long horn bulls standing next to each other
 two long horn bulls standing next to each other
 ```
 
-To use this approach, first, we need to initialized the hypothesis with common observation (GPT2) ``LM.txt``
+To use this approach, first, we need to initialize  the hypothesis with common observation (GPT2) ``LM.txt``
 
 ```
 python LM-GPT-2.py 
@@ -79,21 +79,21 @@ After having all the required files
 - `LM.txt`: initialized hypothesis by common observation (_i.e._ LM)
 - `visual-context_label.txt`: visual context from the classifier 
 - `visual_context_prob.txt`: initialized visual context or classifer confident (prob)
-- `sim.txt`:  similairy between the concept (BERT_fine_tune/SBERT..etc)
-- `caption.txt`: beam search candidates caption 
+- `sim.txt`:   the similarity between the concept (BERT_fine_tune/SBERT..etc)
+- `caption.txt`: beam search candidates caption from the baseline
 
 
-to run this example  with SBERT
+to run this example with SBERT similarity 
 
 ``` 
 python Example_2/model.py --lm LM.txt --vis visual_context_lable.txt --vis_prob visual_context_prob.txt --c caption.txt
 ```
-or with SimCSE-BERT
+or with SimCSE-BERT similarity 
 
 ```
 python SimCSE-BERT/python model_SimCSE.py --lm LM.txt --vis visual_context_lable.txt --vis_prob visual_context_prob.txt --c caption.txt
 ``` 
-or with Info_CSE-BERT
+or with Info_CSE-BERT similarity 
 
 ```
 python Info_CSE-BERT/model_Info_CSE.py --lm LM.txt  --vis visual_context_lable.txt  --vis_prob visual_context_prob.txt --c caption.txt
@@ -116,6 +116,6 @@ two bulls with horns standing next to each other 0.26350009525262974
 two long horn bulls standing next to each other 0.24074783064577798
 a longhorn cow with horns standing in a field 0.0.03975113398536263
  ``` 
-In this example  we re-ranked the top 20 related captions to their visual context with visual semantic. 
+In this example, we re-ranked the top 20 related captions to their visual context with visual semantics. 
 
 
