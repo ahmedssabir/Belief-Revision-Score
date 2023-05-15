@@ -76,7 +76,7 @@ Or SoTA model in semantic similarity [InfoCSE: Information-aggregated Contrastiv
 After having all the required files 
 
 
-- `LM.txt`: initialized hypothesis by common observation (ie LM)
+- `LM.txt`: initialized hypothesis by common observation (_i.e._ LM)
 - `visual-context_label.txt`: visual context from the classifier 
 - `visual_context_prob.txt`: initialized visual context or classifer confident (prob)
 - `sim.txt`:  similairy between the concept (BERT_fine_tune/SBERT..etc)
