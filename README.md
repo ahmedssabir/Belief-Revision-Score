@@ -120,7 +120,7 @@ Second, we need the visual context from the image, and thus we need [visual clas
 python  model/run-visual.py
 ```` 
 
-Finally, the relatendes between the two conecpt (visual context and hypothesis) 
+Finally, the relatedness between the two concepts (visual context and hypothesis) 
 
 Using fine-tuning BERT
  [fine-tuning BERT](BERT/)
