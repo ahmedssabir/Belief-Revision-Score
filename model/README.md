@@ -79,7 +79,7 @@ After having all the required files
 - `LM.txt`: initialized hypothesis by common observation (_i.e._ LM)
 - `visual-context_label.txt`: visual context from the classifier 
 - `visual_context_prob.txt`: initialized visual context or classifer confident (prob)
-- `sim.txt`:   the similarity between the concept (BERT_fine_tune/SBERT..etc)
+- `sim.txt`:   the similarity between the concept (BERT_fine_tune/SBERT,etc)
 - `caption.txt`: beam search candidates caption from the baseline
 
 
