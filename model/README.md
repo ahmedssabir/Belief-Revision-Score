@@ -67,6 +67,12 @@ Or recent model in semantic similarity [Contrastive Learning of Sentence Embeddi
  python SimCSE_sim_score.py --caption caption.txt  --vis visual_context_label.txt 
 ``` 
 
+Or SoTA model in semantic similarity [InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings](https://github.com/caskcsg/sentemb/tree/main/InfoCSE)
+
+```
+ python model_Info_CSE.py --caption caption.txt  --vis visual_context_label.txt 
+``` 
+
 After having all the required files 
 
 
@@ -87,6 +93,11 @@ or with SimCSE-BERT
 ```
 python SimCSE-BERT/python model_SimCSE.py --lm LM.txt --vis visual_context_lable.txt --vis_prob visual_context_prob.txt --c caption.txt
 ``` 
+or with Info_CSE-BERT
+
+```
+python Info_CSE-BERT/model_Info_CSE.py --lm LM.txt  --vis visual_context_lable.txt  --vis_prob visual_context_prob.txt --c caption.txt
+```
 
 Remove beam search duplicate caption or check the re-ranked output file `` Belief-revision_re-rank.txt`` 
 ```
