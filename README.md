@@ -49,7 +49,7 @@ The [Belief revision](https://www.aaai.org/Papers/Symposia/Spring/2003/SS-03-05/
 
 where the main components of hypothesis revision as caption visual semantics re-ranker:
 
-1. Hypothesis (caption candidates beam search) <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w)"> initialized by common observation (ie., language model) 
+1. Hypothesis (caption candidates beam search) <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w)"> initialized by common observation (_i.e._ language model) 
    
 2. Informativeness  <img src="https://render.githubusercontent.com/render/math?math=1-\text{P}(c)"> of the visual context from the image
  
