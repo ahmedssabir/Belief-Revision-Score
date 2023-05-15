@@ -336,7 +336,7 @@ There are two advantages of using Belief Revision for sentence semantic similari
 
 - Belief_revision_score balances the high similarity score using human-inspired logic understanding.  The similarity cosine distance alone is not a reliable score in some scenarios as it measures the angle between vectors in the semantic space.
  
-- The output is a probability,  so it can be re-ranked or combined with another score or classifier  (_e.g._ [Products of Experts](https://www.cs.toronto.edu/~hinton/absps/icann-99.pdf)). (Note that with the cosine distance is not feasible).
+- The output is a probability,  so it can be re-ranked or combined with another score or classifier  (_e.g._ [Products of Experts](https://www.cs.toronto.edu/~hinton/absps/icann-99.pdf)). (Note that, with the cosine distance is not feasible).
 
 
 
