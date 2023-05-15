@@ -29,7 +29,9 @@ two long horn bulls standing next to each other
 two long horn bulls standing next to each other
 ```` 
 
-To use this approach, first, we need to extract the negtive inforamtion from viusal cotnext. We will use Glove to extract objects ``from the visual classifier``  actually detected with high confidence to query and retrieve close concepts, which are used as negative evidence. 
+
+To use this approach, first, we need to extract the negative information from the visual context. We will use GloVe to extract objects with high confidence ``from the visual classifier`` . Then we use the detected objects as query to a pre-trained 840B GloVe and retrieve the close concepts, and then, we employ the objects are not detected/present in the image as negative evidence.
+
 
 To extract visual information we run the visual classifier  
 ```
