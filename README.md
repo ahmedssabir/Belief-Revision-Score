@@ -272,7 +272,7 @@ compare candidate captions with human references. We employ pre-trained [Sentenc
 derive meaningful sentence embeddings that can
 be compared via cosine similarity.
 
-For more deatil and [other diversity evaluation](SBERT-caption-eval)
+For more detail and [other diversity evaluation](SBERT-caption-eval)
  
  Example 
                                                                                     
