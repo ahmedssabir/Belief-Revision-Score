@@ -145,7 +145,7 @@ Note that each score is computed separately here (each score is in a separate fi
 Go here for [more details](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model) 
 
 ## Demo 
-Here an examples with SBERT based model 
+Here are examples with the SBERT based model.
 
 ### Example 1 
 
