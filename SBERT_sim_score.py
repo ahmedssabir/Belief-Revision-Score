@@ -53,8 +53,7 @@ for i in range(len(get_lines(args.caption))):
   
     
     sim = sim.cpu().numpy()
-    sim = str(sim)[1:-1]
-    sim = str(sim)[1:-1]
+    sim = sim.item()
     temp.append(sim)
 
     # to print visual-context,caption,score
