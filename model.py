@@ -37,13 +37,7 @@ def get_lines(file_path):
     with open(file_path) as f:
             return f.read().strip().split('\n')
 
-def get_sim(x):
-    x =  str(x)[1:-1]
-    x =  str(x)[1:-1]
-    return x
-
-
-
+        
 # hypothesis revision based visual re-ranker
 class Visual_re_ranker:
         def __init__(self, LM, visual_context_prob, sim):
@@ -105,7 +99,7 @@ for i in range(len(get_lines(args.c))):
     print('LM:', LM)
     sim =  cosine_scores = util.pytorch_cos_sim(caption_emb, visual_context_label_emb)
     sim = sim.cpu().numpy()
-    sim = get_sim(sim)
+    sim = sim.item()
     print('sim:', sim)
 
   
