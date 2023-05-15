@@ -108,7 +108,7 @@ Re-rank with the highest score (caption --> related visual context)
 sort -t, -rk3 Belief-revision.txt
 ```
 
-Visual re-ranked beams serach  B = 5 with **best** visual beam = 4 
+Visual re-ranked beams search   B = 5 with **best** visual beam = 4 
 ```
 two bulls standing next to each other 0.31941289259462063
 a couple of bulls standing next to each other 0.2858426977047663
