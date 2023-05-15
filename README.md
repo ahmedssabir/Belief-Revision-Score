@@ -212,7 +212,7 @@ the belief of the hypothesis. However the same [work](https://link.springer.com/
 
 <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w \mid \neg c)=1-(1-\mathrm{P}(w))^{\alpha}">
 
-In our case we tried to introduce negative evidence in two ways: **(1)** objects detected by the object classifier (_e.g._ ResNet)
+In our case, we tried to introduce negative evidence in two ways: **(1)** objects detected by the object classifier (_e.g._ ResNet152)
 with very low confidence and not present in the image and thus it can be used as negative evidence,
 and **(2)** using the objects detected with
 high confidence in the image as a _query_ to pre-trained 840B [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)  and retrieve the close concepts, and then, we employ the retrieved objects are not detected/present in the image as negative evidence.
