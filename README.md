@@ -59,7 +59,7 @@ Here is a [Gradio_Demo](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visua
  [Gradio_Demo_with_hypothesis](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Belief-Revision) to show the Visual Re-ranking based Belief Revision 
   
 ## Dataset
-We enrich COCO-caption with **textual Visual Context** information. We use out-of-the-box visual classifiers to extract
+We enrich COCO-caption with **Textual Visual Context** information. We use out-of-the-box visual classifiers to extract
  object information for each COCO-caption image.
  
  VC1     | VC2   |  VC3   | human annoated caption     | 
