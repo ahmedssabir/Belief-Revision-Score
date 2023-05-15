@@ -1,7 +1,6 @@
 
 ## Cloze Probability based Belife Revision 
-Cloze probability is the probability that a given word will be produced in a given context on
-a sentence completion task (last word).
+Cloze probability is the probability of a given word that will be filled in a given context on a sentence completion task (last word).
 
 ```
 The girl eats the **toast**  --> low probability 
