@@ -71,10 +71,10 @@ our model
 | long horn steer in standing in a cattle lot.| two long horn bulls standing next to each other |0.60156345 |
 |                                             | **two long horn bulls standing next to each other** | **0.8167392** |
  
-We take the **Max** score against all 5 human annotations, then we AVERAGE(all_score_baseline) vs AVERAGE(all_score_visual_re-ranker)
+We take the **Max** score against all 5 human annotations, then we AVERAGE(all_score_baseline) against AVERAGE(all_score_visual_re-ranker).
 
 
-To run your test set on standard karpathy testset
+To run your test set on the standard karpathy test set
 
 ```
 run_SDiv.sh
