@@ -77,7 +77,7 @@ More information about the visual context extraction  [paper](https://github.com
 Here, we describe in more detail the implementation of belief revision as a visual re-ranker. We show that by
 integrating visual context information, a more descriptive caption is re-ranked higher. 
 Our model can  be used as a drop-in complement for any caption generation algorithm 
-that outputs a list of candidate captions (_e.g._ beam search, nucleus sampling, etc.)
+that outputs a list of candidate captions (_e.g._ beam search, nucleus sampling, etc.).
 
 To run the **B**elief **R**evision-**S**core via visual context directly with GPT-2 ans SRoBERTa-sts
 
