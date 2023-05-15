@@ -290,8 +290,7 @@ python SBERT-caption-eval/SBERT_eval_demo.py --ref ref_demo.txt --hyp hyp-demo_B
 ```
 
 ## Cloze Probability based Belief Revision 
-Cloze probability is the probability that a given word will be produced in a given context on
-a sentence completion task (last word).
+Cloze probability is the probability of a given word that will be filled in a given context on a sentence completion task (last word).
 
 ```
 The girl eats the **toast**  --> low probability 
