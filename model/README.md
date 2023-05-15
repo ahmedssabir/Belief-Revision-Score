@@ -37,9 +37,9 @@ To use this approach, first, we need to initialized the hypothesis with common o
 python LM-GPT-2.py 
 ``` 
 
-Secondy, we need the confidence score from the classifier.  `visual_context_Resent.txt`
+Secondy, we need the [confidence score](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152) from the classifier.  `visual_context_Resent.txt`
 
-``Another option``: to initialize the visual context by (1) common observation (GPT2) or (2) [Moive  OpenSubtitle corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/947_Paper.pdf) unigram language model. 
+``Another option``: to initialize the visual context by (1) common observation (GPT2) or (2) [Movie  OpenSubtitle corpus](http://www.lrec-conf.org/proceedings/lrec2016/pdf/947_Paper.pdf) unigram language model. 
 
 ```
 python /model/Resent-152/run-visual.py
