@@ -127,7 +127,7 @@ Using fine-tuning BERT
 ```
 python BERT/train_model_VC.py 
 ```
-Or [general-purpose SBERT](https://github.com/UKPLab/sentence-transformers) with cosine similairy 
+Or [general-purpose SBERT](https://github.com/UKPLab/sentence-transformers) with cosine similarity  
 
 ```
 conda create -n SBERT python=3.7 anaconda
