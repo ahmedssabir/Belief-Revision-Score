@@ -355,7 +355,7 @@ run
 ```
 python  sent_model/model_sent.py --sent sent.txt --context_sent context_sent.txt  --output score.txt
 ```
-Exp:
+Example:
 ```
 sent =  'Obama speaks to the media in Illinois' 
 context_sentence =  'The president greets the press in Chicago'
