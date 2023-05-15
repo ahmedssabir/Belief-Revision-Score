@@ -42,7 +42,7 @@ This repository contains the  implementation of the paper [Belief Revision based
 
 
 ## Visual Re-ranking with Belief Revision 
-The [Belief Revision](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=87bd7259ce46b5f8a32b568b5d5cac925cf65afb) is  a conditional probability model which assumes that the preliminary probability finding is revised to the extent warranted by the hypothesis proof (in this work, the proof is the visual context information from the image to revise and select the most related candidate caption that related directly to the image). The Belief Revision is written as:
+The [Belief Revision](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=87bd7259ce46b5f8a32b568b5d5cac925cf65afb) is  a conditional probability model which assumes that the preliminary probability finding is revised to the extent warranted by the hypothesis proof (in this work, the hypothesis proof is the visual context information from the image to revise and select the most related candidate caption that correlates directly to the image). The Belief Revision is written as:
 
 <img src="https://render.githubusercontent.com/render/math?math=\text{P}(w \mid c)=\text{P}(w)^{\alpha}"> 
 
