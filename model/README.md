@@ -50,7 +50,7 @@ COCO_val2014_000000235692.jpg [('ox', 0.49095494)]
 python LM-GPT-2.py && python VC-GPT-2.py
 ```  
 
-Finally, the relatedness between the two concepts (visual context and hypothesis) using [fine-tuning BERT](https://github.com/google-research/bert).
+Finally, the relatedness between the two concepts (visual context and hypothesis) using [fine-tuning BERT](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/BERT).
 
 ```
 python BERT/train_model_VC.py 
