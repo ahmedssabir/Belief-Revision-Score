@@ -332,7 +332,7 @@ Go here for more [details and code](https://github.com/ahmedssabir/Belief-Revisi
 
 ## Other Task: Sentence Semantic Similarity
 
-There are two advantages of using Belief Revision for sentence semantic similarity: 
+There are two advantages of using Belief Revision for sentence semantic similarity tasks:
 
 - Belief_revision_score balances the high similarity score using human-inspired logic understanding.  The similarity cosine distance alone is not a reliable score in some scenarios as it measures the angle between vectors in the semantic space.
  
