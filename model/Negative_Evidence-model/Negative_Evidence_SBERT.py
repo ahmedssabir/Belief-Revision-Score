@@ -54,8 +54,8 @@ for i in range(len(get_lines(args.lm))):
    
     sim =  cosine_scores = util.pytorch_cos_sim(embeddings1, embeddings2)
     sim = sim.cpu().numpy()
-    sim = str(sim)[1:-1]
-    sim = str(sim)[1:-1]   
+    sim = sim.item()
+
 
 
     score = 1 - pow((1-float(LM)),pow((1-float(sim))/(1+ float(sim)),1-float(visual_context_init)))
