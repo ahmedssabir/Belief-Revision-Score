@@ -33,8 +33,7 @@ def Visual_re_ranker(caption, visual_context_label, visual_context_prob):
 
     sim =  cosine_scores = util.pytorch_cos_sim(caption_emb, visual_context_label_emb)
     sim = sim.cpu().numpy()
-    sim = str(sim)[1:-1]
-    sim = str(sim)[1:-1] 
+    sim = sim.item()
 
     LM  = scorer.sentence_score(caption, reduce="mean")
     score = pow(float(LM),pow((1-float(sim))/(1+ float(sim)),1-float(visual_context_prob)))
