@@ -21,7 +21,8 @@ training or fine-tuning.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2209.08163-b31b1b.svg)](https://arxiv.org/pdf/2209.08163.pdf)  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JGPvyHptI65SDXXZNp75YdU_T3GdLVRs?usp=sharing) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://sabirdvd.github.io/project_page/visual_re-ranker_2022/vr_re-ranker.html)
 [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-huggingface-yellow)](https://huggingface.co/spaces/AhmedSSabir/demo-for-Visual-Re-ranker)
-
+[![COLING - slide](https://img.shields.io/badge/COLING-slide-2ea44f)](https://ahmed.jp/project_page/visual_re-ranker_2022/slide_2022.pdf)
+[![COLING - poster](https://img.shields.io/badge/COLING-poster-2ea44f)](https://ahmed.jp/project_page/visual_re-ranker_2022/Poster_856.pdf)
 
 This repository contains the  implementation of the paper [Belief Revision based Caption Re-ranker with Visual Semantic Information](https://arxiv.org/pdf/2209.08163.pdf) 
 
@@ -340,7 +341,7 @@ There are two advantages of using Belief Revision for sentence semantic similari
 
 
 
-For quick start [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing)
+For quick start [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing), and for comparison with other similarity based approach [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1apdL0fIpgDduKfFPH0YN9N26p8KmZTlX?usp=sharing)
 
 
 
