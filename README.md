@@ -341,7 +341,7 @@ There are two advantages of using Belief Revision for sentence semantic similari
 
 
 
-For quick start [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing), and for comparison with other similarity based approach [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1apdL0fIpgDduKfFPH0YN9N26p8KmZTlX?usp=sharing)
+For quick start [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ipTLmZxLLU5aNUQQvSHJRrsetQpg_31C?usp=sharing), and for comparison with other similarity based approach [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qJEaKYfZMlcnweczXDGyrNXSlBGkGMqL?usp=sharing)
 
 
 
