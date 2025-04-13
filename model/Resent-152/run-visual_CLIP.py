@@ -1,58 +1,61 @@
-
 import os
 import glob
-import sys
+import argparse
 import torch
-import torchvision.transforms as Transforms
 import clip
 from PIL import Image
 
 
+parser = argparse.ArgumentParser(description="CLIP image classification")
+parser.add_argument('--input', default='images/*.jpg', help='Input image pattern', type=str, required=True)
+parser.add_argument('--output', default='clip_output.txt', help='Output result file', type=str, required=True)
+args = parser.parse_args()
 
-# Check device
-#device = "cuda" if torch.cuda.is_available() else "cpu"
-device = torch.device("cpu")
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Device - {device}")
 
-# Load CLIP model
+
 clip_model, clip_preprocess = clip.load('ViT-B/32', device)
 clip_model.eval()
 
-#
 with open("imagenet_classes.txt", "r") as f:
     categories = [s.strip() for s in f.readlines()]
+text_tokens = clip.tokenize(categories).to(device)
 
-text = clip.tokenize(categories).to(device)
 
-def predict_clip(image_file_path):
-    image = clip_preprocess(Image.open(image_file_path)).unsqueeze(0).to(device)
-    # base model for the bigger model ViT-L/14 
-    clip_model, _ = clip.load('ViT-B/32', device)
-
-    # Calculate features
+def predict_clip(image_path):
+    image = clip_preprocess(Image.open(image_path).convert("RGB")).unsqueeze(0).to(device)
     with torch.no_grad():
         image_features = clip_model.encode_image(image)
-        text_features = clip_model.encode_text(text)
+        text_features = clip_model.encode_text(text_tokens)
 
-    # Pick the top 5 most similar labels for the image
-    image_features /= image_features.norm(dim=-1, keepdim=True)
-    text_features /= text_features.norm(dim=-1, keepdim=True)
-    similarity = (100.0 * image_features @ text_features.T).softmax(dim=-1)
-    values, indices = similarity[0].topk(5)
+        image_features /= image_features.norm(dim=-1, keepdim=True)
+        text_features /= text_features.norm(dim=-1, keepdim=True)
 
-    predictions = {}
-    for value, index in zip(values, indices):
-        predictions[f"{categories[index]:>16s}"] = f"{1 * value.item():.4f}%"
-	
-    return predictions
+        similarity = (100.0 * image_features @ text_features.T).softmax(dim=-1)
+        top_prob, top_idx = similarity[0].topk(1)
+
+    label = categories[top_idx.item()]
+    prob = top_prob.item()
+    return label, prob
 
 
-# run pred 
-filenames = glob.glob("file= '/image/*.jpg")
+filenames = glob.glob(args.input)
 filenames.sort()
-for image in filenames:
-     print(os.path.basename(image), predict_clip(image))
-#print(predict_clip("image.jpg"))
+total_images = len(filenames)
+print(f"Total images: {total_images}")
 
 
+with open(args.output, 'w') as f:
+    f.write("Image\tObject\tProbability\n")
 
+for image_path in filenames:
+    label, prob = predict_clip(image_path)
+    image_name = os.path.basename(image_path)
+    print(f"{image_name}: {label} ({prob:.4f})")
+
+    with open(args.output, 'a') as f:
+        f.write(f"{image_name}\t{label}\t{prob:.4f}\n")
+
+print(f"\nResults saved to '{args.output}'")
