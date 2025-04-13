@@ -12,7 +12,7 @@ pip install transformers==4.29.0
 ``` 
 
 ```
-python run_swinv2_visual.py  --input image file "images/*.jpg"  --output output results
+python run_swinv2_visual.py  --input "images/*.jpg"  --output output results
 ```
 
 ```
